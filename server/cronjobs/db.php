@@ -78,10 +78,11 @@ function getFlats() {
     if ($result = $db->query("SELECT * FROM `flats`;")) {
         while ($flat = $result->fetch_row()) {
             $namedFlat = array();
+            $namedFlat["id"] = $flat[0];
             $namedFlat["country"] = $flat[1];
             $namedFlat["latitude"] = $flat[2];
             $namedFlat["longitude"] = $flat[3];
-            $namedFlat["city"] = $flat[4];
+            $namedFlat["cityName"] = $flat[4];
             $namedFlat["state"] = $flat[5];
             $namedFlat["searchFrom"] = $flat[6];
             $namedFlat["searchTo"] = $flat[7];
