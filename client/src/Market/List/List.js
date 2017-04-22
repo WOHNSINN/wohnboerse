@@ -2,18 +2,19 @@ import React, { Component } from 'react';
 import Flat from '../Flat/Flat';
 
 class List extends Component {
-  // constructor(props) {
-  //   super(props);
+  filteredFlats() {
+    return this.props.list.result;
+  }
 
-    
-  // }
-  
   render() {
     return (
       <span>
 
-        {this.props.list.result.map((flat) =>
-          <Flat flat={flat} key={flat.id} />
+        {this.filteredFlats().map((flat) =>
+          <span key={flat.id}>
+            <Flat flat={flat}/>
+            <hr />
+          </span>
         )}
       </span>
     );

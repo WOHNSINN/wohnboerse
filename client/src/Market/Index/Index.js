@@ -33,7 +33,7 @@ class Index extends Component {
   render() {
     return (
       <div>
-        {this.state.loading === true && 
+        {this.state.loading === true &&
           <span>Its currently loading</span>
         }
         {this.state.loading === false && this.state.error &&
