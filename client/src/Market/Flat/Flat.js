@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Flat extends Component {
   render() {
     return (
-      <div>Flat</div>
+      <div>{this.props.flat.title} {this.props.flat.cityName}</div>
     );
   }
 }
