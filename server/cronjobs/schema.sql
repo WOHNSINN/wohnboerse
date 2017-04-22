@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Erstellungszeit: 22. Apr 2017 um 14:33
+-- Erstellungszeit: 22. Apr 2017 um 15:48
 -- Server-Version: 10.1.21-MariaDB
 -- PHP-Version: 5.6.30
 
@@ -45,7 +45,8 @@ CREATE TABLE `flats` (
   `title` text NOT NULL,
   `wanted_age_from` int(3) UNSIGNED DEFAULT NULL,
   `wanted_age_to` int(10) UNSIGNED DEFAULT NULL,
-  `wanted_amount_even` int(2) UNSIGNED DEFAULT NULL
+  `wanted_amount_even` int(2) UNSIGNED DEFAULT NULL,
+  `image_url` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
@@ -66,7 +67,7 @@ ALTER TABLE `flats`
 -- AUTO_INCREMENT für Tabelle `flats`
 --
 ALTER TABLE `flats`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=70;
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=475;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

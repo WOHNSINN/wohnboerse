@@ -1,12 +1,14 @@
 <?php
-include_once($_SERVER["DOCUMENT_ROOT"] . "/wohnsinn/server/cronjobs//credentials.php");
-include($_SERVER["DOCUMENT_ROOT"] . "/wohnsinn/server/cronjobs/db.php");
+include_once("../bootstrap.php");
+include_once($basePath . "cronjobs/credentials.php");
+include($basePath . "cronjobs/db.php");
 
 $response = file_get_contents(Credentials::$apiEndpoint);
 $data = json_decode($response);
+$db = new DB();
 
 if ($data) {
-    emptyTable();
+    $db->emptyTable();
 }
 
 foreach ($data->result as $flat) {
@@ -29,7 +31,8 @@ foreach ($data->result as $flat) {
     $flatData["wantedAgeFrom"]  = isset($flat->wantedAgeFrom) ? $flat->wantedAgeFrom : null;
     $flatData["wantedAgeTo"]    = isset($flat->wantedAgeTo) ? $flat->wantedAgeTo : null;
     $flatData["wantedAmountEven"]    = isset($flat->wantedAmountEven) ? $flat->wantedAmountEven : null;
+    $flatData["imageUrl"] = isset($flat->image->urls->ORIGINAL->url) ? $flat->image->urls->ORIGINAL->url : null;
 
-    if (addEntry($flatData)) {}
+    if ($db->addEntry($flatData)) {}
 }
 

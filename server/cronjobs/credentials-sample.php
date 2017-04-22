@@ -6,5 +6,6 @@ class Credentials {
     public static $dbUser = "USER";
     public static $dbName = "NAME";
     public static $dbPass = "PASS";
+    public static $dbPort = "3306";
 
 }
