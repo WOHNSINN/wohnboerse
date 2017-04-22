@@ -32,6 +32,13 @@ div[data-reactroot] > span > span:nth-of-type(2) {
   display: block;
 }
 
+.col-xs-3 {
+  background-image: url('/images/placeholder.png');
+  background-repeat: no-repeat;
+  height: 172px;
+  background-position: 15px 0;
+}
+
 .col-xs-9 span+div>div {
   margin-top: 10px;
   text-align: justify;
