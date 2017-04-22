@@ -4,12 +4,26 @@ import Profile from '../Profile/Profile';
 const CURRENCY = '€';
 
 class Flat extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      showDetail: false,
+    };
+  }
+
+  toggleDetail() {
+    this.setState({
+      showDetail: !this.state.showDetail,
+    });
+  }
+
   render() {
     return (
-      <div className="row">
+      <div className="row" onClick={this.toggleDetail.bind(this)}>
         <div className="col-xs-3">
-          {this.props.flat.image &&
-            <img src={this.props.flat.image.urls.S.url} alt={this.props.flat.title} />
+          {this.props.flat.image && this.props.flat.image.urls.S.url &&
+            <img src={this.props.flat.image.urls.S.url} alt={this.props.flat.title}/>
           }
         </div>
         <div className="col-xs-9">
@@ -17,6 +31,14 @@ class Flat extends Component {
           <div>{this.props.flat.cityName}</div>
           <div>{this.props.flat.from}</div>
           <Profile profile={this.props.flat.profile}/>
+          {this.state.showDetail &&
+            <div>
+              <div>{this.props.flat.description}</div>
+              <div>{this.props.flat.wantedAmountFemale}</div>
+              <div>{this.props.flat.membersManCount}</div>
+              <div>{this.props.flat.membersWomanCount}</div>
+            </div>
+          }
         </div>
       </div>
     );

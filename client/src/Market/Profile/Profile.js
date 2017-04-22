@@ -5,7 +5,7 @@ class Profile extends Component {
   render() {
     return (
       <span>
-        profileinformations
+        {this.props.profile.name}
       </span>
     );
   }
