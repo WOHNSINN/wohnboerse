@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Profile from '../Profile/Profile';
 
 const CURRENCY = '€';
 
@@ -15,6 +16,7 @@ class Flat extends Component {
           <h2>{this.props.flat.title} | {this.props.flat.rent}{CURRENCY}</h2>
           <div>{this.props.flat.cityName}</div>
           <div>{this.props.flat.from}</div>
+          <Profile profile={this.props.flat.profile}/>
         </div>
       </div>
     );

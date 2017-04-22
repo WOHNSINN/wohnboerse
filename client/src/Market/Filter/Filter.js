@@ -1,19 +1,26 @@
 import React, { Component } from 'react';
-import Dropdown from '../../Ui/Dropdown/Dropdown';
+import FuzzySearchDropDownFilter from '../../Ui/FuzzySearch/FuzzySearchDropDownFilter';
 
 class Filter extends Component {
-  changeFilter(key, filterFunction) {
-    // this.setState({
-    //   [key]: filterFunction,
-    // });
+  constructor(props) {
+    super(props);
 
-    this.props.onChange(key, filterFunction);
+    this.filters = {};
+  }
+
+  changeFilter(key, filterFunction) {
+    this.filters[key] = filterFunction;
+
+    this.props.onChange(this.filters);
   }
 
   render() {
     return (
       <span>
-        <Dropdown onChange={this.changeFilter.bind(this, 'cityName')} />
+        <FuzzySearchDropDownFilter
+          data={this.props.data}
+          column={{ property: 'cityName' }}
+          onChange={this.changeFilter.bind(this, 'cityName')} />
       </span>
     );
   }

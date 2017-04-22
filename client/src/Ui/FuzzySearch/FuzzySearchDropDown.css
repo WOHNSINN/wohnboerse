@@ -1,0 +1,51 @@
+.fuzzy-search {
+  position: relative;
+}
+
+.dropdown-arrow {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  display: inline-block;
+  padding: 5px 10px;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.dropdownicon {
+  width: 0;
+  height: 0;
+  vertical-align: middle;
+  border-top: 4px dashed #000000;
+  border-top: 4px solid #000000;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
+  display: inline-block;
+}
+
+.options {
+  position: absolute;
+  top: 100%;
+  background: #ffffff;
+  border: 1px solid #888888;
+  border-top: 0px;
+  width: 100%;
+}
+
+.option {
+  position: relative;
+  cursor: pointer;
+  display: block;
+  border: none;
+  height: auto;
+  text-align: left;
+  border-top: none;
+  line-height: 1em;
+  color: #000000;
+  padding: 10px !important;
+  font-size: 1em;
+}
+
+.option:hover {
+   background: #f2f2f2;
+}
