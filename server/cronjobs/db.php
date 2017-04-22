@@ -1,5 +1,5 @@
 <?php
-include_once("./credentials.php");
+include_once($_SERVER["DOCUMENT_ROOT"] . "/wohnsinn/server/cronjobs/credentials.php");
 
 $db = new mysqli(Credentials::$dbHost, Credentials::$dbUser, Credentials::$dbPass, Credentials::$dbName, 3306);
 if ($db->connect_errno) {
@@ -68,4 +68,38 @@ function addEntry($data) {
     }
 
     return true;
+}
+
+function getFlats() {
+    global $db;
+
+    $flats = array();
+
+    if ($result = $db->query("SELECT * FROM `flats`;")) {
+        while ($flat = $result->fetch_row()) {
+            $namedFlat = array();
+            $namedFlat["country"] = $flat[1];
+            $namedFlat["latitude"] = $flat[2];
+            $namedFlat["longitude"] = $flat[3];
+            $namedFlat["city"] = $flat[4];
+            $namedFlat["state"] = $flat[5];
+            $namedFlat["searchFrom"] = $flat[6];
+            $namedFlat["searchTo"] = $flat[7];
+            $namedFlat["flatsize"] = $flat[8];
+            $namedFlat["description"] = $flat[9];
+            $namedFlat["furnished"] = $flat[10];
+            $namedFlat["apiId"] = $flat[11];
+            $namedFlat["membersManCount"] = $flat[12];
+            $namedFlat["rent"] = $flat[13];
+            $namedFlat["size"] = $flat[14];
+            $namedFlat["title"] = $flat[15];
+            $namedFlat["wantedAgeFrom"] = $flat[16];
+            $namedFlat["wantedAgeTo"] = $flat[17];
+            $namedFlat["wantedAmountEven"] = $flat[18];
+            $flats[] = $namedFlat;
+        }
+        $result->close();
+    }
+
+    return $flats;
 }

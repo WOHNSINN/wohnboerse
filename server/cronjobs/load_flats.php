@@ -1,6 +1,6 @@
 <?php
-include_once("./credentials.php");
-include("./db.php");
+include_once($_SERVER["DOCUMENT_ROOT"] . "/wohnsinn/server/cronjobs//credentials.php");
+include($_SERVER["DOCUMENT_ROOT"] . "/wohnsinn/server/cronjobs/db.php");
 
 $response = file_get_contents(Credentials::$apiEndpoint);
 $data = json_decode($response);
