@@ -85,7 +85,7 @@ class DB {
     public function getFlats() {
         $flats = array();
 
-        if ($result = $this->db->query("SELECT * FROM `flats`;")) {
+        if ($result = $this->db->query("SELECT * FROM `flats` ORDER BY city ASC;")) {
             while ($flat = $result->fetch_row()) {
                 $namedFlat = array();
                 $namedFlat["id"] = $flat[0];
