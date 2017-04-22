@@ -6,6 +6,12 @@ if ($db->connect_errno) {
     echo "Failed to connect to MySQL: (" . $db->connect_errno . ") " . $db->connect_error;
 }
 
+function emptyTable() {
+    global $db;
+
+    $stmt = $db->prepare("DELETE FROM flats;");
+    $stmt->execute();
+}
 
 function addEntry($data) {
     global $db;

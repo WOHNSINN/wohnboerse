@@ -5,6 +5,10 @@ include("./db.php");
 $response = file_get_contents(Credentials::$apiEndpoint);
 $data = json_decode($response);
 
+if ($data) {
+    emptyTable();
+}
+
 foreach ($data->result as $flat) {
     $flatData = array();
     $flatData["country"]    = utf8_decode( $flat->city->country );
@@ -26,8 +30,6 @@ foreach ($data->result as $flat) {
     $flatData["wantedAgeTo"]    = isset($flat->wantedAgeTo) ? $flat->wantedAgeTo : null;
     $flatData["wantedAmountEven"]    = isset($flat->wantedAmountEven) ? $flat->wantedAmountEven : null;
 
-    if (addEntry($flatData)) {
-        echo("geil");
-    }
+    if (addEntry($flatData)) {}
 }
 
