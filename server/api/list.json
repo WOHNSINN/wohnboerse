@@ -1,0 +1,4774 @@
+{
+  "result": [
+    {
+      "id": 2387854,
+      "title": "Helle 19m² in moderner 2erWG im Marburger Zentrum",
+      "addressHidden": false,
+      "lat": 50.8223,
+      "lng": 8.77491,
+      "from": "2017-04-24",
+      "flatSize": 55,
+      "rent": 420,
+      "type": "default",
+      "size": 19,
+      "image": {
+        "id": 2756463,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/9bb53b90-d2dd-42e9-b47a-b5f0354807e7",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/9bb53b90-d2dd-42e9-b47a-b5f0354807e7-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/9bb53b90-d2dd-42e9-b47a-b5f0354807e7-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/9bb53b90-d2dd-42e9-b47a-b5f0354807e7-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3264,
+            "height": 2448,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/9bb53b90-d2dd-42e9-b47a-b5f0354807e7-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/9bb53b90-d2dd-42e9-b47a-b5f0354807e7-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/9bb53b90-d2dd-42e9-b47a-b5f0354807e7-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/9bb53b90-d2dd-42e9-b47a-b5f0354807e7-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/9bb53b90-d2dd-42e9-b47a-b5f0354807e7-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Marburg",
+      "furnished": "partly",
+      "description": "Ich suche ab sofort, spätestens jedoch zum 01.06.17, einen Nachmieter für mein helles WG-Zimmer in einer sehr modernen und neuen Wohnung (Haus wurde 2013 gebaut) am Anfang der Alten Kasseler Straße. Meine top erhaltenen Möbel können ebenfalls gerne für einen kleinen Betrag übernommen werden, muss aber nicht unbedingt.\n\nZum Zimmer: 19m² groß + 4 m² Terrasse im EG der Wohnung. Insgesamt ist die Wohnung 55m² groß und man hat ebenso im Keller ein Abteil. (alle weiteren Maße siehe Bild im Anhang). Interessenten erhalten weitere Bilder!\n\nWG-Leben: Du lebst mit einem freundlichen und sehr umgänglichen männlichen 25-jährigen Medizin-Studenten zusammen. Wir führen ein recht lockeres und angenehmes WG-Leben miteinander, sind aber auch keine WG, die jeden Abend zusammen hockt. D.h. jeder genießt auch seine Privatsphäre. Ordnung und Sauberkeit wird eingehalten, jedoch nicht übertrieben. Küche und Bad wird sich geteilt. Waschräume mit entsprechenden Möglichkeiten (Waschmaschine und Trockner) stehen ebenfalls zur Verfügung.",
+      "creationDate": "2017-04-21",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 99,
+      "imageCount": 7,
+      "city": {
+        "id": 3919,
+        "country": "Deutschland",
+        "state": "Hessen",
+        "name": "Marburg",
+        "seoRelevant": true,
+        "lat": 50.8022,
+        "lng": 8.76679,
+        "northLatitude": 50.8587,
+        "eastLongitude": 8.85819,
+        "southLatitude": 50.7379,
+        "westLongitude": 8.62744,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 270440,
+        "name": "Julian Hodes",
+        "aboutMe": "Ich ziehe aus der Wohnung aus.",
+        "gender": "male"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2382341,
+      "title": "WG Zimmer Schlierbach",
+      "addressHidden": true,
+      "from": "2017-05-01",
+      "to": "2017-06-30",
+      "flatSize": 70,
+      "rent": 320,
+      "type": "default",
+      "size": 15,
+      "status": "active",
+      "cityName": "Heidelberg",
+      "furnished": "undefined",
+      "description": "Heidelberg-Schlierbach: 1 Zimmer, Wohnfläche 15 qm, Provisionsfrei. Lichtdurchflutetes WG Zimmer in bester Lage in Schlierbach in direkter Nähe zum Wald und zum Neckar.\n\nZur WG gehören Garten, Küche, Bad, Gemeinschaftsräume und Waschkeller.\n\nAnbindung zum öffentlichen Nahverkehr: S-Bahnhof und Bushaltestellen in 5 Gehminuten zu erreichen, dann ca. 2 Minuten bis zum Altstadtbahnhof.\n\nDas Zimmer ist auf zwei Monate befristet mit der Option den Vertrag bis zum Herbst zu erweitern. Nebenkostenpauschale sind 70 Euro.\n.",
+      "creationDate": "2017-04-21",
+      "wantedAmountEven": 1,
+      "membersManCount": 4,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 85,
+      "imageCount": 0,
+      "city": {
+        "id": 3641,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Heidelberg",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 49.4225,
+        "lng": 8.75386,
+        "northLatitude": 49.4518,
+        "eastLongitude": 8.77671,
+        "southLatitude": 49.4126,
+        "westLongitude": 8.72537,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 271115,
+        "name": "Beate Weber",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2382338,
+      "title": "Schöne 3 Zimmerwohnung mit Anbindung zur U35",
+      "addressHidden": false,
+      "lat": 51.5704,
+      "lng": 7.2426,
+      "from": "2017-05-01",
+      "flatSize": 78,
+      "rent": 420,
+      "type": "default",
+      "size": 20,
+      "image": {
+        "id": 2750622,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/196f3d70-d203-4e84-a58f-c23c92da5aef",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/196f3d70-d203-4e84-a58f-c23c92da5aef-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/196f3d70-d203-4e84-a58f-c23c92da5aef-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1200,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/196f3d70-d203-4e84-a58f-c23c92da5aef-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 5184,
+            "height": 3456,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/196f3d70-d203-4e84-a58f-c23c92da5aef-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/196f3d70-d203-4e84-a58f-c23c92da5aef-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/196f3d70-d203-4e84-a58f-c23c92da5aef-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/196f3d70-d203-4e84-a58f-c23c92da5aef-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 400,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/196f3d70-d203-4e84-a58f-c23c92da5aef-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Herne",
+      "furnished": "partly",
+      "description": "Die Wohnung ist frisch renoviert, das angebotene Zimmer beinhaltet etwa 20 m²  mit einem Balkon und großer Fensterfront, sodass es ein Lichtdurchflutetes Zimmer ist.\n\n Direkt vor der Haustür befindet sich eine Bushaltestelle, sodass man in einigen Minuten die U35 erreicht und mitdieser kann man bequem bis zur UNI Bochum RUB fahren. Weiterhin habe ich einen Lidl auf der gegenüberliegenden Straßenseite. Freizeitmöglichkeiten wie die Stadtmitte und Parks erreicht man auch relativ schnell. Die Küche habe ich auch vor kurzem eingerichtet, sie verfügt über 2 Backöfen und eine Induktionsherdplatte sowie Spülmaschine und Waschmaschine / Kühlschrank und alles was man halt zum kochen braucht. Weiterhin wurde das Bad von mir vollständig erneuert sodass die Badwanne und Toilete nur wenige Monate alt sind . Es gibt ein geräumiges Wohnzimmer mit Balkon. Zum Teil sind Möbel in den Zimmern vorhanden. Guckt euch einfach die Bilder an. Ich könnte noch einiges mehr zu der Wohnung erzählen, jedoch wäre mir ein persönliches Gespräch bzw. ein Treffen lieber. Also wenn ich dein Interesse geweckt habe erreichst du mich unter 015234501590 ( Auch WhatsApp)",
+      "creationDate": "2017-04-20",
+      "wantedAmountMale": 1,
+      "wantedAmountFemale": 1,
+      "membersManCount": 2,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 30,
+      "imageCount": 22,
+      "city": {
+        "id": 3845,
+        "country": "Deutschland",
+        "state": "Nordrhein-Westfalen",
+        "name": "Herne",
+        "lat": 51.5369,
+        "lng": 7.20091,
+        "northLatitude": 51.5733,
+        "eastLongitude": 7.29652,
+        "southLatitude": 51.5031,
+        "westLongitude": 7.12363,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 162498,
+        "name": "Emil",
+        "aboutMe": "Hey mein Name ist Emil Strelz, ich bin 21 Jahre alt und studiere Medizin an der Ruhr-universität-Bochum im 4 Semester. \n\nTel 015234501590",
+        "job": "Medizinstudent",
+        "gender": "male",
+        "birthday": "1995-07-10",
+        "image": {
+          "id": 1908381,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 720,
+              "height": 960,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2382293,
+      "title": "großes, helles Zimmer in Berufstätigen-WG mit großem Balkon im Herzen von Ulm, ideal für Pendler/WE-Heimfahrer",
+      "addressHidden": true,
+      "from": "2017-05-01",
+      "flatSize": 90,
+      "rent": 477,
+      "type": "default",
+      "size": 19,
+      "image": {
+        "id": 2750340,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0c8c7684-0bc8-45a6-9cb2-fd07581fa0a0",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0c8c7684-0bc8-45a6-9cb2-fd07581fa0a0-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0c8c7684-0bc8-45a6-9cb2-fd07581fa0a0-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 759,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0c8c7684-0bc8-45a6-9cb2-fd07581fa0a0-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 1494,
+            "height": 2656,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0c8c7684-0bc8-45a6-9cb2-fd07581fa0a0-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0c8c7684-0bc8-45a6-9cb2-fd07581fa0a0-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0c8c7684-0bc8-45a6-9cb2-fd07581fa0a0-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0c8c7684-0bc8-45a6-9cb2-fd07581fa0a0-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 253,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0c8c7684-0bc8-45a6-9cb2-fd07581fa0a0-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Ulm",
+      "furnished": "partly",
+      "description": "Das freie ca. 19 m2 große, rechteckig geschnitte Zimmer ist durch ein breites Doppelfenster sehr hell und freundlich, zeigt zur Hafengasse und enthält ein großes Wandregal, das bei Bedarf gerne übernommen werden kann. Das Zimmer ist Teil einer 3-Zimmer-Wohnung mit großem Wohnzimmer mit Zugang zum riesigen Balkon. Weiterhin gibt es eine schöne, neue Küche (von Juli ´16, auch inkl. Spülmaschine, Waschmaschine), in der auch Platz zum Zusammensitzen ist, ein Tageslichtbad mit Badewanne, einen großen Flur sowie einen großen Keller und Dachboden. Der Balkon zeigt zum Innenhof/Südseite, wo man von mittags bis abends die Sonne in vollen Zügen genießen kann. Falls es doch mal zu viel Sonne ist, oder Regen, kann mit der großen, elektrischen Marquise Abhilfe geschaffen werden. \nIn den Neben- und sonstigen Kosten ist alles drin, Warmwasser und Heizung, Strom, Internet/Telefon, Müllgebühr, GEZ, Kabel. Hinzu kommt eine einmalige Abstandszahlung von 800 € für die neue Einbauküche (Juli ´16) samt Elektrogeräten, die neuen Balkonmöbel, den großen, 3D-Spiegelschrank im Bad und die elektrische Marquise vom Vormieter. Zudem habe ich die Wohnung im Juni 2016 frisch streichen lassen.",
+      "creationDate": "2017-04-20",
+      "wantedAmountFemale": 1,
+      "membersWomanCount": 1,
+      "wantedAgeFrom": 28,
+      "wantedAgeTo": 45,
+      "imageCount": 5,
+      "city": {
+        "id": 3804,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Ulm",
+        "lat": 48.4011,
+        "lng": 9.98761,
+        "northLatitude": 48.4685,
+        "eastLongitude": 10.0428,
+        "southLatitude": 48.3067,
+        "westLongitude": 9.84206,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 269751,
+        "name": "Anja Drose",
+        "gender": "female",
+        "image": {
+          "id": 2730587,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/2e2e6072-63a1-4bc6-ba8a-04a7bb364f37",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/2e2e6072-63a1-4bc6-ba8a-04a7bb364f37-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/2e2e6072-63a1-4bc6-ba8a-04a7bb364f37-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/2e2e6072-63a1-4bc6-ba8a-04a7bb364f37-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/2e2e6072-63a1-4bc6-ba8a-04a7bb364f37-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/2e2e6072-63a1-4bc6-ba8a-04a7bb364f37-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/2e2e6072-63a1-4bc6-ba8a-04a7bb364f37-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2379942,
+      "title": "15m² in super zentraler und schöner Mädels-WG",
+      "addressHidden": false,
+      "lat": 51.2153,
+      "lng": 6.79524,
+      "borough": "Stadtbezirk 3",
+      "from": "2017-05-01",
+      "flatSize": 72,
+      "rent": 375,
+      "type": "default",
+      "size": 15,
+      "image": {
+        "id": 2747777,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0633405d-6088-4ee7-bc69-ebca46177a70",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0633405d-6088-4ee7-bc69-ebca46177a70-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0633405d-6088-4ee7-bc69-ebca46177a70-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 720,
+            "height": 1280,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0633405d-6088-4ee7-bc69-ebca46177a70-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 720,
+            "height": 1280,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0633405d-6088-4ee7-bc69-ebca46177a70-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0633405d-6088-4ee7-bc69-ebca46177a70-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0633405d-6088-4ee7-bc69-ebca46177a70-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0633405d-6088-4ee7-bc69-ebca46177a70-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 253,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/0633405d-6088-4ee7-bc69-ebca46177a70-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Düsseldorf",
+      "furnished": "false",
+      "description": "Dein zukünftiges Zimmer ist 15m² groß und befindet sich in einer 72m² großen Wohnung im dritten Stock. Durch die großen Fenster und hohen Decken wirkt es sehr hell und der Boden ist mit Laminat ausgestattet. Es wird unmöbliert übergeben, so dass du es gestalten kannst, wie du möchtest. Zu dem Zimmer gehört ein eigenes Badezimmer mit Badewanne. In der Wohnung sind dann noch mein Zimmer, mein Bad mit der gemeinsamen Waschmaschine, eine Küche und ein großes Wohnzimmer zu finden. Im Hausflur ist ebenfalls genügend Platz zum Abstellen eines Fahrrads.",
+      "creationDate": "2017-04-19",
+      "wantedAmountEven": 1,
+      "membersWomanCount": 1,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 25,
+      "imageCount": 7,
+      "city": {
+        "id": 3624,
+        "country": "Deutschland",
+        "state": "Nordrhein-Westfalen",
+        "name": "Düsseldorf",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 51.2277,
+        "lng": 6.77346,
+        "northLatitude": 51.3525,
+        "eastLongitude": 6.93994,
+        "southLatitude": 51.1244,
+        "westLongitude": 6.68876,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 195273,
+        "name": "Pauline Wegener",
+        "aboutMe": "Ich bin 21 Jahre alt und studiere dual Logistikmanagement in Düsseldorf und Neuss. \n\nWenn dir der Text und die Bilder über die Wohnung und das Zimmer gefallen, würde ich mich über eine Mail mit einem kurzen Text über dich (Name, Alter, Beruf,...) sehr freuen und dann können wir gerne einen Besichtigungstermin vereinbaren.",
+        "job": "Duale Studentin",
+        "gender": "female"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2379909,
+      "title": "Trendy Well Furnished flat for Short &Long term with Comforts Fully Furnished",
+      "addressHidden": true,
+      "from": "2017-04-19",
+      "flatSize": 220,
+      "rent": 350,
+      "type": "default",
+      "size": 24,
+      "image": {
+        "id": 2747548,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7b033778-54cc-4476-b28b-9ae70379d47b",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7b033778-54cc-4476-b28b-9ae70379d47b-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7b033778-54cc-4476-b28b-9ae70379d47b-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 557,
+            "height": 359,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7b033778-54cc-4476-b28b-9ae70379d47b-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 557,
+            "height": 359,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7b033778-54cc-4476-b28b-9ae70379d47b-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7b033778-54cc-4476-b28b-9ae70379d47b-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7b033778-54cc-4476-b28b-9ae70379d47b-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7b033778-54cc-4476-b28b-9ae70379d47b-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 557,
+            "height": 359,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7b033778-54cc-4476-b28b-9ae70379d47b-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Berlin",
+      "furnished": "true",
+      "description": "There is a nice,very clean and spacious room available for rent now. The room is fully furnished, infact its renovated some months ago. The room is located in heart of Berlin. You can reach Central Station within 15 minutes by metro and various ways of transport are also easy accessible. Everything is within reach and just around the corner you will find shops and all the amenities you need. Renting out my spacious 2 bedroom am given up my bedroom apartment in Kreuzberg for a while. The apartment is located on the 2nd floor in the rear of the building consists of large living room / bedroom, a semi-open kitchen with fitted kitchen (refrigerator and dishwasher provided and space for a washing machine, a small hall with space for shoe shelves and cabinet bar with high speed WiFi Internet and a small inner bathroom with shower.",
+      "creationDate": "2017-04-19",
+      "wantedAmountEven": 2,
+      "imageCount": 1,
+      "city": {
+        "id": 3611,
+        "country": "Deutschland",
+        "state": "Berlin",
+        "name": "Berlin",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 52.52,
+        "lng": 13.405,
+        "northLatitude": 52.6755,
+        "eastLongitude": 13.7611,
+        "southLatitude": 52.3396,
+        "westLongitude": 13.0912,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 270750,
+        "name": "kiaran",
+        "gender": "male"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2379875,
+      "title": "WG-Zimmer in gemütlicher 2-Zimmerwohnung mit Wohnküche in Berlin  Neukölln",
+      "addressHidden": false,
+      "lat": 52.4903,
+      "lng": 13.4343,
+      "from": "2017-05-01",
+      "flatSize": 80,
+      "rent": 370,
+      "type": "default",
+      "size": 20,
+      "image": {
+        "id": 2747338,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/58aa5e91-7ab2-498f-b6a1-745b5e46500f",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/58aa5e91-7ab2-498f-b6a1-745b5e46500f-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/58aa5e91-7ab2-498f-b6a1-745b5e46500f-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 680,
+            "height": 663,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/58aa5e91-7ab2-498f-b6a1-745b5e46500f-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 680,
+            "height": 663,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/58aa5e91-7ab2-498f-b6a1-745b5e46500f-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/58aa5e91-7ab2-498f-b6a1-745b5e46500f-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/58aa5e91-7ab2-498f-b6a1-745b5e46500f-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/58aa5e91-7ab2-498f-b6a1-745b5e46500f-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 585,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/58aa5e91-7ab2-498f-b6a1-745b5e46500f-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Berlin",
+      "furnished": "true",
+      "description": "Wir bieten ein Zimmer zur Untermiete für drei Monate evtl. auch länger. Dein Zimmer hat etwa 20qm mit einem begehbaren Kleiderschrank, Stuck und Dielen und kostet 370 Euro pro Monat (inklusive Internet u. Telefon) Kaution 700 Euro. Es ist möbliert mit einer Matratze, Schreibtisch, Stuhl, Kommode, Vorhänge und Spiegel.",
+      "creationDate": "2017-04-19",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "wantedAgeFrom": 19,
+      "wantedAgeTo": 45,
+      "imageCount": 1,
+      "city": {
+        "id": 3611,
+        "country": "Deutschland",
+        "state": "Berlin",
+        "name": "Berlin",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 52.52,
+        "lng": 13.405,
+        "northLatitude": 52.6755,
+        "eastLongitude": 13.7611,
+        "southLatitude": 52.3396,
+        "westLongitude": 13.0912,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 270649,
+        "name": "chris",
+        "gender": "male",
+        "birthday": "1986-12-16"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2377742,
+      "title": "2er Wg-Neugründung Altstadtwohnung zwischen Römerpassage und Schillerplatz",
+      "addressHidden": true,
+      "from": "2017-06-01",
+      "flatSize": 45,
+      "rent": 450,
+      "type": "default",
+      "size": 13,
+      "image": {
+        "id": 2745144,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11481cf0-d7ac-4ffd-8dd2-10d2b1008a59",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11481cf0-d7ac-4ffd-8dd2-10d2b1008a59-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11481cf0-d7ac-4ffd-8dd2-10d2b1008a59-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 758,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11481cf0-d7ac-4ffd-8dd2-10d2b1008a59-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 2336,
+            "height": 4160,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11481cf0-d7ac-4ffd-8dd2-10d2b1008a59-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11481cf0-d7ac-4ffd-8dd2-10d2b1008a59-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11481cf0-d7ac-4ffd-8dd2-10d2b1008a59-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11481cf0-d7ac-4ffd-8dd2-10d2b1008a59-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 253,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11481cf0-d7ac-4ffd-8dd2-10d2b1008a59-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Mainz",
+      "furnished": "false",
+      "description": "Zimmer\n\nDie Wohnung liegt in einem in 2009 errichteten Neubau und wird aus einem separaten Ausgang aus dem Treppenhaus erreicht.\nSie verfügt über ein Badezimmer mit Badewanne. Beide Zimmer sind etwa 13qm groß und durch die Fenster und Balkontüre sehr hell. Die Zimmer sind über einen gemeinsamen Balkon verbunden, der\n aufgrund der südlichen Lage tagsüber viel Sonne abbekommt. \nEine Küche ist bereits vorhanden.\n\nBeide Zimmer werden frei, sodass die Möglichkeit zu einer WG-Neugründung besteht.\n \nSonstiges\n\nDie angegebene Miete bezieht sich auf ein Zimmer. Für die gesamte Wohnung beträgt die Kaltmiete dementsprechend 750€ und die Gesamtkaution 1100€.\n\nIn der Wohnung befindet sich bereits eine funktionelle Küche mit Ofen, Spüle und Arbeitsflächen und auch das Badezimmer ist bereits mit Badewanne, Dusche und Waschbecken ausgestattet.",
+      "creationDate": "2017-04-18",
+      "wantedAmountEven": 2,
+      "membersManCount": 2,
+      "wantedAgeFrom": 19,
+      "wantedAgeTo": 30,
+      "imageCount": 3,
+      "city": {
+        "id": 3858,
+        "country": "Deutschland",
+        "state": "Rheinland-Pfalz",
+        "name": "Mainz",
+        "seoRelevant": true,
+        "lat": 49.9929,
+        "lng": 8.24725,
+        "northLatitude": 50.0353,
+        "eastLongitude": 8.34308,
+        "southLatitude": 49.8955,
+        "westLongitude": 8.14198,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 270596,
+        "name": "Mauro Decataldo",
+        "job": "",
+        "gender": "male",
+        "birthday": "1991-01-12"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2377725,
+      "title": "2 x WG-Zimmer (jeweils 12 qm) in 2-Zimmer-KDB-Whg ***VOLL MÖBLIERT / ALL INN***",
+      "addressHidden": false,
+      "lat": 50.9499,
+      "lng": 6.93362,
+      "borough": "Ehrenfeld",
+      "from": "2017-05-01",
+      "flatSize": 43,
+      "rent": 499,
+      "type": "default",
+      "size": 12,
+      "image": {
+        "id": 2744946,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/873b97d5-19a7-435a-9716-faa2c30f410f",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/873b97d5-19a7-435a-9716-faa2c30f410f-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/873b97d5-19a7-435a-9716-faa2c30f410f-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1198,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/873b97d5-19a7-435a-9716-faa2c30f410f-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3078,
+            "height": 2048,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/873b97d5-19a7-435a-9716-faa2c30f410f-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/873b97d5-19a7-435a-9716-faa2c30f410f-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/873b97d5-19a7-435a-9716-faa2c30f410f-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/873b97d5-19a7-435a-9716-faa2c30f410f-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 399,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/873b97d5-19a7-435a-9716-faa2c30f410f-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Köln",
+      "furnished": "true",
+      "description": "Angeboten werden 2 (!) WG-Zimmer (der angegebene Preis versteht sich pro Zimmer). Die Zimmer sowie die gesamte Wohnung sind voll möbliert und ab dem 01.05.2017 komplett verfügbar (zur Neugründung geeignet). Modern gestaltete 2-Zimmer-Wohnung im 8. Obergeschoss mit Aufzug (Panorama-Blick, u.a. auf das Rheinenergie-Stadion). Die Wohnung teilt sich auf in einen Flur mit Einbau-Wandschrank, ein 2015 saniertes Bad mit großer Dusche, einen Essbereich mit angrenzender Küche (Spüle, Kochfeld, Mikrowelle, Kühlschrank, Geschirr, Besteck) und die beiden hier angebotenen separaten (WG-)Zimmer (Zimmer1: Schrank, Doppelbett, Fernseher, Zimmer 2: Kommode, XL-(Schlaf-)Couch, Fernseher). Beide Räume verfügen in der gesamten Breite über eine Fensterfront und sind daher angenehm hell. In Kombination mit dem Fliesenboden, den puristisch gehaltenen Wänden und der geschmackvoll modernen Einrichtung wirkt die Wohnung sehr stylisch.\nFür die Mieter stehen ein Waschkeller mit Münzautomaten, ein Partyraum, eine Sauna und ein Innenpool im Gebäudekomplex zur Verfügung!\nIn den Nebenkosten sind sämtliche anfallenden Kosten, die Wäschegestellung, die Poolnutzung sowie WLAN (Netcologne) berückichtigt. Ausserdem erfolgt 1x monatlich eine kostenlose Grund-Reinigung incl. Bettwäsche- und Handtuchwechsel.",
+      "creationDate": "2017-04-18",
+      "imageCount": 5,
+      "city": {
+        "id": 3615,
+        "country": "Deutschland",
+        "state": "Nordrhein-Westfalen",
+        "name": "Köln",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 50.9375,
+        "lng": 6.96028,
+        "northLatitude": 51.085,
+        "eastLongitude": 7.16206,
+        "southLatitude": 50.8295,
+        "westLongitude": 6.77258,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 247707,
+        "name": "Holger Tschersich",
+        "gender": "male"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2377717,
+      "title": "schönes zentrales WG Zimmer",
+      "addressHidden": false,
+      "lat": 52.128,
+      "lng": 11.6558,
+      "from": "2017-06-01",
+      "flatSize": 11111,
+      "rent": 240,
+      "type": "default",
+      "size": 13,
+      "status": "active",
+      "cityName": "Magdeburg",
+      "furnished": "false",
+      "description": "Du suchst einen günstiges und zentrales WG Zimmer in Uni bzw. Hochschulnähe?\nDann hast du Glück , denn mein Zimmer wird zum Juni 2017 frei.\nEs handelt sich um ein helles,13qm großes Zimmer. Die Wohnung teilst du dir mit zwei sympathischen Mitbewohnern.\n1. John, 21, Informatikstudent im 6. Semester und Vollblutmusiker. Wenn er nicht gerade Gitarre oder Klavier spielt, findest du ihn bestimmt mit ein paar Freunden auf dem Volleyballfeld.\n2. Kim, 18, Computervisualistik-Studentin im 3. Semester, Poetry-Slamerin und für jeden Quatsch zu haben.\nDu kommst in eine WG die gerne viel zusammen unternimmt, natürlich kannst du aber auch mal die Tür hinter dir zumachen wenn du deine Ruhe brauchst. \nDeine neue Wohnung liegt eine Minute von der Haltestelle Heumarkt entfernt. Mit der Straßenbahn fährst du 5 Minuten in die Stadt und zum Einkaufen. Auch zur Uni bist du maximal 10 Minuten unterwegs.\nUnd? Begeistert? \nDann hier nochmal die Eckdaten zu deinem neuen Zimmer :\n1. Größe : 13qm\n2. Lage : Top !\n3. Kaltmiete : 165\n4. Nebenkosten:\n75\n5. Kaution: einmalig 200 \n6. Ab wann du einziehen kannst ? Ab Juni 2017\nMelde dich bei mir ! \nPer SMS oder WhatsApp : (siehe unten)\n MAIL\n\nWir freuen uns auf eine Besichtigung mit dir. \nJohn, Kim und Virginia",
+      "creationDate": "2017-04-18",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "membersWomanCount": 1,
+      "wantedAgeFrom": 16,
+      "wantedAgeTo": 30,
+      "imageCount": 0,
+      "city": {
+        "id": 3655,
+        "country": "Deutschland",
+        "state": "Sachsen-Anhalt",
+        "name": "Magdeburg",
+        "seoRelevant": true,
+        "lat": 52.0769,
+        "lng": 11.6277,
+        "northLatitude": 52.0788,
+        "eastLongitude": 11.6365,
+        "southLatitude": 52.0727,
+        "westLongitude": 11.6175,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 270497,
+        "name": "Virginia Kiaulehn",
+        "gender": "female",
+        "birthday": "1997-03-11",
+        "image": {
+          "id": 2744875,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/70f19e0c-766d-4e95-a909-0c67317048ab",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/70f19e0c-766d-4e95-a909-0c67317048ab-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/70f19e0c-766d-4e95-a909-0c67317048ab-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/70f19e0c-766d-4e95-a909-0c67317048ab-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/70f19e0c-766d-4e95-a909-0c67317048ab-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/70f19e0c-766d-4e95-a909-0c67317048ab-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/70f19e0c-766d-4e95-a909-0c67317048ab-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2377713,
+      "title": "Furnished room for rent",
+      "addressHidden": false,
+      "lat": 52.5113,
+      "lng": 13.3997,
+      "from": "2017-05-01",
+      "flatSize": 140,
+      "rent": 400,
+      "type": "default",
+      "size": 22,
+      "status": "active",
+      "cityName": "Berlin",
+      "furnished": "true",
+      "description": "This is a fully furnished apartment right in the city centre of Berlin with easy access of transportation.There is washing machine and dryer in the apartment and the kitchen is well equipped.\nIt's in a very conducive environment and the neighbourhood is very safe.",
+      "creationDate": "2017-04-18",
+      "wantedAmountEven": 2,
+      "membersWomanCount": 1,
+      "wantedAgeFrom": 20,
+      "wantedAgeTo": 30,
+      "imageCount": 0,
+      "city": {
+        "id": 3611,
+        "country": "Deutschland",
+        "state": "Berlin",
+        "name": "Berlin",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 52.52,
+        "lng": 13.405,
+        "northLatitude": 52.6755,
+        "eastLongitude": 13.7611,
+        "southLatitude": 52.3396,
+        "westLongitude": 13.0912,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 270486,
+        "name": "Louise Vincent",
+        "aboutMe": "I am an easy going young girl that is fun to live with. i like traveling and meeting people.",
+        "job": "Self mployed",
+        "gender": "female",
+        "birthday": "1993-04-02",
+        "image": {
+          "id": 2744863,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/20b6b864-c120-476d-8e27-3f52b79e8b46",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/20b6b864-c120-476d-8e27-3f52b79e8b46-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/20b6b864-c120-476d-8e27-3f52b79e8b46-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 200,
+              "height": 125,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/20b6b864-c120-476d-8e27-3f52b79e8b46-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/20b6b864-c120-476d-8e27-3f52b79e8b46-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/20b6b864-c120-476d-8e27-3f52b79e8b46-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/20b6b864-c120-476d-8e27-3f52b79e8b46-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2377711,
+      "title": "Zimmer zu vermieten im Juni und Juli 2017",
+      "addressHidden": false,
+      "lat": 48.3941,
+      "lng": 9.96922,
+      "from": "2017-06-10",
+      "to": "2017-07-22",
+      "flatSize": 80,
+      "rent": 380,
+      "type": "default",
+      "size": 28,
+      "image": {
+        "id": 2744855,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/3fa0bb93-daae-4bf9-a113-74091f70a3b9",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/3fa0bb93-daae-4bf9-a113-74091f70a3b9-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/3fa0bb93-daae-4bf9-a113-74091f70a3b9-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/3fa0bb93-daae-4bf9-a113-74091f70a3b9-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 4032,
+            "height": 3024,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/3fa0bb93-daae-4bf9-a113-74091f70a3b9-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/3fa0bb93-daae-4bf9-a113-74091f70a3b9-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/3fa0bb93-daae-4bf9-a113-74091f70a3b9-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/3fa0bb93-daae-4bf9-a113-74091f70a3b9-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/3fa0bb93-daae-4bf9-a113-74091f70a3b9-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Ulm",
+      "furnished": "true",
+      "description": "Die Wohnung ist für eine WG perfekt geschnitten: über eine Diele erreicht man das Bad mit Badezimmer und WC, das extra WC, die Küche (ca. 10 qm), dort anschließend den sonnigen Balkon (ca. 8 qm groß!!) und die WG-Zimmer. \n\nMein eigenes Zimmer, welches ich für den ausgeschrieben Zeitraum vermieten möchte ist ca. 28 qm groß. Es ist etwas verwinkelt geschnitten, mit zwei Säulen und Dachschrägen, was eine sehr gemütlichen Eindruck schafft. Der Boden besteht aus Holzdielen. Das Zimmer ist vollständig möbliert, mit einem 1,60m Bett, einem Schrank (welchen ich b.B. gerne leer räume), einem großen Schreibtisch mit zusätzlichem Bildschirm, einem Schminktisch, einem Regal, und wen es interessiert auch mit Gitarre und Keyboard ;). Zur Wohnung gehört auch ein Fahrradkeller, mein Fahrrad bleibt in Ulm und darf gerne mitbenutzt werden! Ich selber bin Hebamme in Ausbildung und werde in dieser Zeit ein Praktikum in Berlin machen.",
+      "creationDate": "2017-04-18",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "membersWomanCount": 2,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 30,
+      "imageCount": 7,
+      "city": {
+        "id": 3804,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Ulm",
+        "lat": 48.4011,
+        "lng": 9.98761,
+        "northLatitude": 48.4685,
+        "eastLongitude": 10.0428,
+        "southLatitude": 48.3067,
+        "westLongitude": 9.84206,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 270481,
+        "name": "Rosi Jung",
+        "job": "Hebamme in Ausbildung",
+        "gender": "female",
+        "birthday": "1994-07-07",
+        "image": {
+          "id": 2744853,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5abcfdcb-f17b-4276-94f7-39c0597d38a3",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5abcfdcb-f17b-4276-94f7-39c0597d38a3-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5abcfdcb-f17b-4276-94f7-39c0597d38a3-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 200,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5abcfdcb-f17b-4276-94f7-39c0597d38a3-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5abcfdcb-f17b-4276-94f7-39c0597d38a3-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5abcfdcb-f17b-4276-94f7-39c0597d38a3-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5abcfdcb-f17b-4276-94f7-39c0597d38a3-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2377708,
+      "title": "Studentenwohnheim Schwabing",
+      "addressHidden": false,
+      "lat": 48.1605,
+      "lng": 11.5807,
+      "borough": "Schwabing-Freimann",
+      "from": "2017-04-01",
+      "flatSize": 120,
+      "rent": 200,
+      "type": "default",
+      "size": 15,
+      "image": {
+        "id": 2744827,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/be905556-3911-4eda-9e9f-7364b5cc4615",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/be905556-3911-4eda-9e9f-7364b5cc4615-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/be905556-3911-4eda-9e9f-7364b5cc4615-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 840,
+            "height": 679,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/be905556-3911-4eda-9e9f-7364b5cc4615-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 840,
+            "height": 679,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/be905556-3911-4eda-9e9f-7364b5cc4615-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/be905556-3911-4eda-9e9f-7364b5cc4615-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/be905556-3911-4eda-9e9f-7364b5cc4615-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/be905556-3911-4eda-9e9f-7364b5cc4615-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 485,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/be905556-3911-4eda-9e9f-7364b5cc4615-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "München",
+      "furnished": "true",
+      "description": "ZIMMER\nVoraussetzungen zum Einzug\nmännlich, studierend, katholisch, deutsch\n\nMiete\nDie Miete der Zimmer bewegt sich zwischen 200€ und 305€ warm. Der Vertrag wird zunächst für ein halbes Jahr abgeschlossen und kann dann verlängert werden.\n\nZimmergrößen\nDie Zimmer sind zwischen 10 und 20 Quadratmetern groß.\n\nAusstattung\nJedes Zimmer ist mit Schreibtisch, Stuhl, Schrank, Regal und Bett möbliert. Es steht jedem Bewohner frei, sein Zimmer selbst einzurichten und zu dekorieren. Darüber hinaus gibt es in jedem Raum ein Waschbecken mit Spiegel. Natürlich steht es jedem Bewohner frei, sein Zimmer mit zusätzlichen Möbeln auszustatten.\n\nStockwerke\nIm Neubau sind auf einer Etage sechs und im Altbau zwölf Zimmer. Der Altbau verfügt über fünf und der Neubau über vier Stockwerke. Insgesamt zählt das Wohnheim 84 Zimmer.",
+      "creationDate": "2017-04-18",
+      "wantedAmountMale": 4,
+      "wantedAmountFemale": 1,
+      "membersManCount": 8,
+      "membersWomanCount": 1,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 25,
+      "imageCount": 5,
+      "city": {
+        "id": 3617,
+        "country": "Deutschland",
+        "state": "Bayern",
+        "name": "München",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 48.1351,
+        "lng": 11.582,
+        "northLatitude": 48.2482,
+        "eastLongitude": 11.7229,
+        "southLatitude": 48.0616,
+        "westLongitude": 11.3608,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 270467,
+        "name": "KDSTV Vandalia",
+        "gender": "undefined",
+        "image": {
+          "id": 2744830,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/0c78241b-5722-4df3-865e-c39b6b4ba3b0",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/0c78241b-5722-4df3-865e-c39b6b4ba3b0-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/0c78241b-5722-4df3-865e-c39b6b4ba3b0-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 840,
+              "height": 679,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/0c78241b-5722-4df3-865e-c39b6b4ba3b0-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/0c78241b-5722-4df3-865e-c39b6b4ba3b0-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/0c78241b-5722-4df3-865e-c39b6b4ba3b0-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/0c78241b-5722-4df3-865e-c39b6b4ba3b0-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2377430,
+      "title": "WG Mitbewohner/in gesucht :)",
+      "addressHidden": true,
+      "from": "2017-05-28",
+      "flatSize": 72,
+      "rent": 445,
+      "type": "default",
+      "size": 15,
+      "status": "active",
+      "cityName": "Ratingen",
+      "furnished": "partly",
+      "creationDate": "2017-04-18",
+      "wantedAmountEven": 1,
+      "membersWomanCount": 1,
+      "wantedAgeFrom": 20,
+      "wantedAgeTo": 26,
+      "imageCount": 0,
+      "city": {
+        "id": 4193,
+        "country": "Deutschland",
+        "state": "Nordrhein-Westfalen",
+        "name": "Ratingen",
+        "lat": 51.2964,
+        "lng": 6.84018,
+        "northLatitude": 51.3718,
+        "eastLongitude": 6.9826,
+        "southLatitude": 51.2646,
+        "westLongitude": 6.80129,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 270400,
+        "name": "Yvi1993",
+        "job": "Pflegekraft",
+        "gender": "female",
+        "birthday": "1993-02-28"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2376396,
+      "title": "WG Zimmer in Frankfurt/Ostend",
+      "addressHidden": false,
+      "lat": 50.1135,
+      "lng": 8.70569,
+      "borough": "Innenstadt",
+      "from": "2017-07-01",
+      "flatSize": 62,
+      "rent": 380,
+      "type": "default",
+      "size": 14,
+      "image": {
+        "id": 2743466,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/5409382c-6518-4776-bdd7-d3d215098386",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/5409382c-6518-4776-bdd7-d3d215098386-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/5409382c-6518-4776-bdd7-d3d215098386-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1013,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/5409382c-6518-4776-bdd7-d3d215098386-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 4128,
+            "height": 2322,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/5409382c-6518-4776-bdd7-d3d215098386-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/5409382c-6518-4776-bdd7-d3d215098386-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/5409382c-6518-4776-bdd7-d3d215098386-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/5409382c-6518-4776-bdd7-d3d215098386-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 338,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/5409382c-6518-4776-bdd7-d3d215098386-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Frankfurt am Main",
+      "furnished": "true",
+      "creationDate": "2017-04-17",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "membersWomanCount": 1,
+      "imageCount": 6,
+      "city": {
+        "id": 3662,
+        "country": "Deutschland",
+        "state": "Hessen",
+        "name": "Frankfurt am Main",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 50.0379,
+        "lng": 8.56215,
+        "northLatitude": 50.0532,
+        "eastLongitude": 8.60166,
+        "southLatitude": 49.9956,
+        "westLongitude": 8.4906,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 204070,
+        "name": "Ergün Ünal",
+        "gender": "male",
+        "birthday": "1971-11-02",
+        "image": {
+          "id": 1612105,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/8f3c6eac-883d-49d1-83e5-2bfce0a0afbe",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/8f3c6eac-883d-49d1-83e5-2bfce0a0afbe-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/8f3c6eac-883d-49d1-83e5-2bfce0a0afbe-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/8f3c6eac-883d-49d1-83e5-2bfce0a0afbe-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/8f3c6eac-883d-49d1-83e5-2bfce0a0afbe-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/8f3c6eac-883d-49d1-83e5-2bfce0a0afbe-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/8f3c6eac-883d-49d1-83e5-2bfce0a0afbe-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2376366,
+      "title": "helles 20 qm Altbau Zimmer in Zentraler Lage mit allen nebenkosten 350 €",
+      "addressHidden": false,
+      "lat": 51.2611,
+      "lng": 7.14775,
+      "borough": "Elberfeld",
+      "from": "2017-04-29",
+      "flatSize": 72,
+      "rent": 350,
+      "type": "default",
+      "size": 20,
+      "image": {
+        "id": 2743089,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1cb1d2fc-5456-491b-8ade-46c415aea03c",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1cb1d2fc-5456-491b-8ade-46c415aea03c-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1cb1d2fc-5456-491b-8ade-46c415aea03c-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1cb1d2fc-5456-491b-8ade-46c415aea03c-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3648,
+            "height": 2736,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1cb1d2fc-5456-491b-8ade-46c415aea03c-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1cb1d2fc-5456-491b-8ade-46c415aea03c-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1cb1d2fc-5456-491b-8ade-46c415aea03c-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1cb1d2fc-5456-491b-8ade-46c415aea03c-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1cb1d2fc-5456-491b-8ade-46c415aea03c-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Wuppertal",
+      "furnished": "false",
+      "description": "Das freie Zimmer liegt im vierten Stock eines Altbaus und weist mit seiner Deckenhöhe von ~3m ausreichend Gestaltungsfläche. Die zwei großen Fenster blicken nach Osten auf die T-Kreuzung zweier Hauptstraßen. Die Lärmbelastung fällt allerdings nur gering aus.\nDas Zimmer grenzt an den Wohnungsflur mit Übergang ins Bad und Wohnzimmer an. Das Wohnzimmer teilt sich durch seinen Schnitt in zwei Bereiche ein, zum einen in den Essbereich und zum anderen in eine Sofaecke. Vom Wohnzimmer aus kann das zweite Schlafzimmer, die Küche und der rückseitig gelegene, überdachte Balkon mit Blick auf den Hinterhof erreicht werden.",
+      "creationDate": "2017-04-17",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "wantedAgeFrom": 20,
+      "wantedAgeTo": 30,
+      "imageCount": 7,
+      "city": {
+        "id": 3652,
+        "country": "Deutschland",
+        "state": "Nordrhein-Westfalen",
+        "name": "Wuppertal",
+        "seoRelevant": true,
+        "lat": 51.2562,
+        "lng": 7.15076,
+        "northLatitude": 51.3181,
+        "eastLongitude": 7.31344,
+        "southLatitude": 51.1657,
+        "westLongitude": 7.0141,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 270272,
+        "name": "Benedikt Orlob",
+        "aboutMe": "Ich bin ein 25-jähriger weltoffener Student. Ich koche den größten Teil der Woche vegetarisch/vegan und freue mich immer über Mitesser und Helfer in der Küche. Ansonsten verbinge ich meine Zeit damit ehrenamtlich in der Jugendarbeit und dem Katastrophenschutz tätig zu sein. \nWenn Freunde zu Besuch sind spielen wir meistens verschiedene Brettspiele oder starten eine Pen and Paper Spielrunde.",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2372969,
+      "title": "Das Zimmer ist mit 20 qm gut zum Leben in netter 2er WG,  Köln Lindenthal",
+      "addressHidden": false,
+      "lat": 50.9319,
+      "lng": 6.91938,
+      "from": "2017-05-01",
+      "flatSize": 80,
+      "rent": 400,
+      "type": "default",
+      "size": 20,
+      "image": {
+        "id": 2739405,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/ce8d5921-36e7-4229-8cb2-03615297f3e6",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/ce8d5921-36e7-4229-8cb2-03615297f3e6-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/ce8d5921-36e7-4229-8cb2-03615297f3e6-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 720,
+            "height": 971,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/ce8d5921-36e7-4229-8cb2-03615297f3e6-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 720,
+            "height": 971,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/ce8d5921-36e7-4229-8cb2-03615297f3e6-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/ce8d5921-36e7-4229-8cb2-03615297f3e6-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/ce8d5921-36e7-4229-8cb2-03615297f3e6-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/ce8d5921-36e7-4229-8cb2-03615297f3e6-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 334,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/ce8d5921-36e7-4229-8cb2-03615297f3e6-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Köln",
+      "furnished": "true",
+      "description": "Die möblierten Zimmer sind sehr hell und können ab sofort bezogen werden. \nEine neu eingebaute und voll ausgestattete Küche so wie eine Waschmaschine und ein Trockner stehen allen Hausbewohnern zur Verfügung. \nDes Weiteren steht ein gemütliches Wohnzimmer mit Fernsehsitzecke zur Verfügung. Alle öffentlichen Räume und Bäder werden durch einen Reinigungsservice gereinigt.",
+      "creationDate": "2017-04-15",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "wantedAgeFrom": 19,
+      "wantedAgeTo": 43,
+      "imageCount": 1,
+      "city": {
+        "id": 3615,
+        "country": "Deutschland",
+        "state": "Nordrhein-Westfalen",
+        "name": "Köln",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 50.9375,
+        "lng": 6.96028,
+        "northLatitude": 51.085,
+        "eastLongitude": 7.16206,
+        "southLatitude": 50.8295,
+        "westLongitude": 6.77258,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 270036,
+        "name": "babs",
+        "gender": "male",
+        "birthday": "1989-12-12"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2372968,
+      "title": "Das Zimmer ist mit 20 qm gut zum Leben in netter 2er WG, Berlin Friedrichshain",
+      "addressHidden": false,
+      "lat": 52.5193,
+      "lng": 13.4649,
+      "from": "2017-05-01",
+      "flatSize": 80,
+      "rent": 400,
+      "type": "default",
+      "size": 20,
+      "image": {
+        "id": 2739403,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8089dbbb-2009-4a73-9c2d-f08d9968be00",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8089dbbb-2009-4a73-9c2d-f08d9968be00-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8089dbbb-2009-4a73-9c2d-f08d9968be00-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 720,
+            "height": 828,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8089dbbb-2009-4a73-9c2d-f08d9968be00-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 720,
+            "height": 828,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8089dbbb-2009-4a73-9c2d-f08d9968be00-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8089dbbb-2009-4a73-9c2d-f08d9968be00-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8089dbbb-2009-4a73-9c2d-f08d9968be00-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8089dbbb-2009-4a73-9c2d-f08d9968be00-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 391,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8089dbbb-2009-4a73-9c2d-f08d9968be00-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Berlin",
+      "furnished": "true",
+      "description": "- im tollen Samariter-Viertel\n- Einzug zwischen 1.5. - 1.6.\n- Eintritt in mietvertrag\n- als Stauraum nur ein Hochboden\n- Zimmer möbliert\nEine neu eingebaute und voll ausgestattete Küche so wie eine Waschmaschine und ein Trockner stehen allen Hausbewohnern zur Verfügung.",
+      "creationDate": "2017-04-15",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "wantedAgeFrom": 19,
+      "wantedAgeTo": 42,
+      "imageCount": 1,
+      "city": {
+        "id": 3611,
+        "country": "Deutschland",
+        "state": "Berlin",
+        "name": "Berlin",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 52.52,
+        "lng": 13.405,
+        "northLatitude": 52.6755,
+        "eastLongitude": 13.7611,
+        "southLatitude": 52.3396,
+        "westLongitude": 13.0912,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 270034,
+        "name": "bab",
+        "gender": "male",
+        "birthday": "1989-12-17"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2368717,
+      "title": "HH-LOHBRÜGGE WG-Zimmer, Bad & Küchenbenutzung, Aufenthaltsraum, W-Lan&Kat",
+      "addressHidden": false,
+      "lat": 53.5015,
+      "lng": 10.2061,
+      "borough": "Bergedorf",
+      "from": "2017-05-01",
+      "flatSize": 150,
+      "rent": 500,
+      "type": "default",
+      "size": 13,
+      "image": {
+        "id": 2734974,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/90c89bf2-c735-416c-b174-b28d7046365c",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/90c89bf2-c735-416c-b174-b28d7046365c-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/90c89bf2-c735-416c-b174-b28d7046365c-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 800,
+            "height": 533,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/90c89bf2-c735-416c-b174-b28d7046365c-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 800,
+            "height": 533,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/90c89bf2-c735-416c-b174-b28d7046365c-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/90c89bf2-c735-416c-b174-b28d7046365c-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/90c89bf2-c735-416c-b174-b28d7046365c-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/90c89bf2-c735-416c-b174-b28d7046365c-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 400,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/90c89bf2-c735-416c-b174-b28d7046365c-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Hamburg",
+      "furnished": "undefined",
+      "creationDate": "2017-04-14",
+      "wantedAmountMale": 2,
+      "wantedAmountFemale": 3,
+      "membersManCount": 3,
+      "membersWomanCount": 1,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 99,
+      "imageCount": 6,
+      "city": {
+        "id": 3610,
+        "country": "Deutschland",
+        "state": "Hamburg",
+        "name": "Hamburg",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 53.5511,
+        "lng": 9.99368,
+        "northLatitude": 53.7171,
+        "eastLongitude": 10.1235,
+        "southLatitude": 53.4,
+        "westLongitude": 9.73215,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 269903,
+        "name": "rainer lüthje",
+        "aboutMe": "Ich wohne nicht in dem WG-Haus",
+        "job": "Rentner",
+        "gender": "male",
+        "birthday": "1948-03-12"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2368706,
+      "title": "Das Zimmer ist 16 Quadratmeter groß",
+      "addressHidden": false,
+      "lat": 48.0085,
+      "lng": 7.85487,
+      "from": "2017-04-14",
+      "flatSize": 90,
+      "rent": 300,
+      "type": "default",
+      "size": 16,
+      "status": "active",
+      "cityName": "Freiburg im Breisgau",
+      "furnished": "true",
+      "description": "Hallo, \nDas Zimmer ist 16 Quadratmeter groß, hell und ruhig. Die Wohnung ist zentral gelegen (Spülmaschine, Waschmaschine etc.) und die Miete beinhaltet alle Nebenkosten sowie Internet, Telefon, etc. sind enthalten. \n\nDie Wohnung ist sehr zentral; auf die U-Bahn-Station ist ca. 5 min, der Supermarkt und andere Geschäfte ist auch gleich um die Ecke. \n\nEs wäre toll, wenn Sie uns ein wenig über Sie in einer kurzen E-Mail; Bitte geben Sie auch Ihr Alter.",
+      "creationDate": "2017-04-14",
+      "imageCount": 0,
+      "city": {
+        "id": 4203,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Freiburg im Breisgau",
+        "lat": 47.999,
+        "lng": 7.8421,
+        "northLatitude": 48.071,
+        "eastLongitude": 7.93083,
+        "southLatitude": 47.9036,
+        "westLongitude": 7.66201,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 269864,
+        "name": "ajekobatu",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2368705,
+      "title": "Neu renoviertes, möbliertes WG-Zimmer in zentraler Lage zur TH",
+      "addressHidden": false,
+      "lat": 51.0244,
+      "lng": 7.56882,
+      "from": "2017-04-17",
+      "flatSize": 115,
+      "rent": 350,
+      "type": "default",
+      "size": 14,
+      "image": {
+        "id": 2734919,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b720afbf-3d42-4361-b8dd-74a8782a7bbc",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b720afbf-3d42-4361-b8dd-74a8782a7bbc-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b720afbf-3d42-4361-b8dd-74a8782a7bbc-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1600,
+            "height": 1200,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b720afbf-3d42-4361-b8dd-74a8782a7bbc-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 1600,
+            "height": 1200,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b720afbf-3d42-4361-b8dd-74a8782a7bbc-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b720afbf-3d42-4361-b8dd-74a8782a7bbc-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b720afbf-3d42-4361-b8dd-74a8782a7bbc-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b720afbf-3d42-4361-b8dd-74a8782a7bbc-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b720afbf-3d42-4361-b8dd-74a8782a7bbc-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Gummersbach",
+      "furnished": "true",
+      "description": "Mein Freund Marc Arnolds vermietet sein neu renoviertes, möbliertes WG Zimmer in zentraler Lage.\nDie ehemalige Arztpraxis wurde Ende letzten Jahres komplett neu renoviert und verfügt daher über komplett neues Interior, Böden und frisch gestrichene Wände. Die Wohnung ist sehr großzügig geschnitten mit getrennten WCs für Frauen und Männer. \nDas hier angebotene Zimmer ist komplett neu eingerichtet und fast gar nicht benutzt. Meine Matratze kann gerne kostenfrei übernommen werden. Das Zimmer verfügt über einen Schreibtisch, ein Doppelbett, einen großzügigen Kleiderschrank, sowie weitere Regale und Schubladen (siehe Fotos).\n\nDu lebst zusammen mit 3 Mitbewohnern (2w/1m), von denen zwei an der TH studieren und einer arbeitet.\nEs herrscht ein sehr angenehmes Zusammenleben. Wir kochen gerne zusammen, aber dennoch hat jeder genug Freiraum und kann sich jederzeit zurückziehen.\nWir haben in der WG einen geregelten Putzplan und achten auf Ordnung und Sauberkeit.\n\nBei Interesse melde dich gerne jederzeit bei meinem Freund Marc per whatsapp oder Anruf auf seinem Handy. \nAm besten zwischen 10 und 21 Uhr.\nAlternativ kannst du mir auch gerne eine Email schicken.",
+      "creationDate": "2017-04-14",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "membersWomanCount": 2,
+      "wantedAgeFrom": 19,
+      "wantedAgeTo": 40,
+      "imageCount": 8,
+      "city": {
+        "id": 3945,
+        "country": "Deutschland",
+        "state": "Nordrhein-Westfalen",
+        "name": "Gummersbach",
+        "lat": 51.0267,
+        "lng": 7.56928,
+        "northLatitude": 51.0862,
+        "eastLongitude": 7.71369,
+        "southLatitude": 50.9731,
+        "westLongitude": 7.43515,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 269860,
+        "name": "Bianca Hingorani",
+        "gender": "female",
+        "birthday": "1994-04-28",
+        "image": {
+          "id": 2734918,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/13edebf3-1a13-4461-9e9f-b1b6217425e4",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/13edebf3-1a13-4461-9e9f-b1b6217425e4-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/13edebf3-1a13-4461-9e9f-b1b6217425e4-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/13edebf3-1a13-4461-9e9f-b1b6217425e4-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/13edebf3-1a13-4461-9e9f-b1b6217425e4-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/13edebf3-1a13-4461-9e9f-b1b6217425e4-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/13edebf3-1a13-4461-9e9f-b1b6217425e4-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2364583,
+      "title": "Schwäbisch Gmünd",
+      "addressHidden": true,
+      "from": "2017-07-01",
+      "flatSize": 70,
+      "rent": 235,
+      "type": "default",
+      "size": 14,
+      "status": "active",
+      "cityName": "Schwäbisch Gmünd",
+      "furnished": "false",
+      "description": "Das Zimmer ist 14qm groß und nicht möbliert\nEs hat ein großes Fenster mit schönem Ausblick über Schwäbisch Gmünd.\n\nDas gemeinsame Wohnzimmer hat eine große Fensterfront mit traumhafter Aussicht über Schwäbisch Gmünd, das macht einen Fernseher überflüssig ;) \nIm Keller befindet sich eine Waschmaschine und genügend Platz für Fahrräder.\n\nZu unsere Nachbarn (Familie mit 3 Kindern) haben wir eine gute Beziehung, sind sehr freundlich und hilfsbereit. Es stört sie nicht wen es auch mal ein wenig lauter wird. DenGarten und die Einfahrt nutzen wir gemeinsam.\n\nUnsere Einfahrt hat platz für zwei Autos, in der Nebenstraße gibt es ebenfalls genügend Parkmöglichkeiten.",
+      "creationDate": "2017-04-13",
+      "wantedAmountFemale": 1,
+      "membersWomanCount": 2,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 25,
+      "imageCount": 0,
+      "city": {
+        "id": 4188,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Schwäbisch Gmünd",
+        "lat": 48.7994,
+        "lng": 9.80457,
+        "northLatitude": 48.8444,
+        "eastLongitude": 9.94358,
+        "southLatitude": 48.7146,
+        "westLongitude": 9.71372,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 269697,
+        "name": "Tamara Müller",
+        "aboutMe": "",
+        "job": "Erzieherin",
+        "gender": "female",
+        "birthday": "1996-02-20"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2357362,
+      "title": "Zimmer in 5-er WG mit Garten und viel Platz",
+      "addressHidden": true,
+      "from": "2017-04-11",
+      "flatSize": 130,
+      "rent": 280,
+      "type": "default",
+      "size": 10,
+      "image": {
+        "id": 2722247,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b4592a3a-20f3-4299-8447-d73ede168907",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b4592a3a-20f3-4299-8447-d73ede168907-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b4592a3a-20f3-4299-8447-d73ede168907-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b4592a3a-20f3-4299-8447-d73ede168907-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3264,
+            "height": 2448,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b4592a3a-20f3-4299-8447-d73ede168907-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b4592a3a-20f3-4299-8447-d73ede168907-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b4592a3a-20f3-4299-8447-d73ede168907-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b4592a3a-20f3-4299-8447-d73ede168907-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/b4592a3a-20f3-4299-8447-d73ede168907-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Untermünkheim",
+      "furnished": "false",
+      "description": "Renoviertes, helles Zimmer mit 2 großen Fenstern und Eiche Parkett",
+      "creationDate": "2017-04-11",
+      "wantedAmountMale": 2,
+      "membersWomanCount": 3,
+      "wantedAgeFrom": 22,
+      "wantedAgeTo": 35,
+      "imageCount": 6,
+      "city": {
+        "id": 4286,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Untermünkheim",
+        "lat": 49.1528,
+        "lng": 9.73376,
+        "northLatitude": 49.1994,
+        "eastLongitude": 9.78898,
+        "southLatitude": 49.1346,
+        "westLongitude": 9.68811,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 269217,
+        "name": "nora",
+        "aboutMe": "Unsere Wg ist keine Zweck WG, wir essen oft gemeinsam oder sitzen abends zusammen.Wir haben einen kleinen Nutzgarten, und ein großes Wohn-Esszimmer. Auch noch einen Hund der viel gestreichelt werden will. Da in unserer gemischten WG nun schon 3 Frauen sind suchen wir noch 2 Männer.",
+        "gender": "undefined",
+        "image": {
+          "id": 2722269,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/fffc3233-7480-4d0e-a49d-c1a14f307386",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/fffc3233-7480-4d0e-a49d-c1a14f307386-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/fffc3233-7480-4d0e-a49d-c1a14f307386-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 3264,
+              "height": 2448,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/fffc3233-7480-4d0e-a49d-c1a14f307386-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/fffc3233-7480-4d0e-a49d-c1a14f307386-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/fffc3233-7480-4d0e-a49d-c1a14f307386-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/fffc3233-7480-4d0e-a49d-c1a14f307386-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2353582,
+      "title": "tolle WG Ideal für Praktikanten von PORSCHE, BOSCH, TRUMPF",
+      "addressHidden": true,
+      "borough": "Kallenberg",
+      "from": "2017-06-01",
+      "flatSize": 100,
+      "rent": 480,
+      "type": "default",
+      "size": 15,
+      "image": {
+        "id": 2717775,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17db136e-ff5b-4545-a1be-c792cba6d66a",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17db136e-ff5b-4545-a1be-c792cba6d66a-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17db136e-ff5b-4545-a1be-c792cba6d66a-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1013,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17db136e-ff5b-4545-a1be-c792cba6d66a-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3024,
+            "height": 4032,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17db136e-ff5b-4545-a1be-c792cba6d66a-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17db136e-ff5b-4545-a1be-c792cba6d66a-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17db136e-ff5b-4545-a1be-c792cba6d66a-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17db136e-ff5b-4545-a1be-c792cba6d66a-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 338,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17db136e-ff5b-4545-a1be-c792cba6d66a-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Korntal-Münchingen",
+      "furnished": "partly",
+      "description": "Kosten\nMiete: 408€\nNebenkosten: 85€\nSonstige Kosten: 0€\nKaution: 800€\nAbstandszahlung: 0€\n\nLAGE:\nAdresse\nkallenbergstraße 74\n70825 Stuttgart Korntal-Münchingen\n\n\nVerfügbarkeit\nfrei ab: 01.06.2017\n\n\n15m² Zimmer in 4er WG\nWohnungsgröße: 100m²\n4er WG (0 Frauen und 0 Männer)\nBewohneralter: 18 bis 40 Jahre\nRauchen auf dem Balkon erlaubt\nStudenten-WG, Business-WG, gemischte WG\nSprache/n: Deutsch Englisch\n\nZimmer\n\n*Ideal für Praktikanten von PORSCHE, BOSCH, TRUMPF, Daimler oder Thales aufgrund der guten Lage*\n\n\nIch vermiete ein schönes Wg Zimmer in einer 4er Wg.\nDie Wohnung befindet sich im Erdgeschoss eines ruhigen Mehrfamilienhauses.\nIn der Wohnung gibt es ein Großzügiges Bad mit Dusche,Badewanne, sowie ein separates WC. Die Wohnung hat 50.000M/Bit Internet.\n\nAlle Mieter dürfen den großen Garten jederzeit Nutzen.\n\nAusstattung:\n- Kühlschrank 3x\n-Gefrierschrank\n-Waschmaschine\n-Spülmaschine\n- Ofen und Herd\n-Fahrradkeller\n- Internet 50.000\n- Garten, Balkon\n\nGaragenstellplatz kann zusätzlich gemietet werden.\n-> Die Wohnung wird gerade frisch renoviert, sodass jedes Zimmer einen neuen Boden und Tapeten bekommt. Es stehen vier neu renovierte Zimmer zur Verfügung sodass auch eine WG Neugründung möglich ist.\n\nBus, S-Bahn, Autobahn, Einkaufsläden in direkter Nähe.\n\nLage\n\nTolle Lage in direkter Nähe ist ein Einkaufsmarkt sowie ÖPNV.\nKallenbergstraße 74, 70825 Korntal-Münchingen\n\nWG-Leben\n\n4 Zimmer WG neu zu vermieten!\nWG NEUGRÜNDUNG MÖGLICH!\n\nSonstiges\n\n4 Zimmer WG neu zu vermieten!\nWG NEUGRÜNDUNG MÖGLICH!",
+      "creationDate": "2017-04-09",
+      "wantedAmountMale": 2,
+      "wantedAmountFemale": 2,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 40,
+      "imageCount": 4,
+      "city": {
+        "id": 8147,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Korntal-Münchingen",
+        "lat": 48.8464,
+        "lng": 9.10721,
+        "northLatitude": 48.8691,
+        "eastLongitude": 9.14316,
+        "southLatitude": 48.8235,
+        "westLongitude": 9.04807,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 266889,
+        "name": "WG Kallenberg",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2353581,
+      "title": "tolle WG Ideal für Praktikanten von PORSCHE, BOSCH, TRUMPF",
+      "addressHidden": true,
+      "borough": "Kallenberg",
+      "from": "2017-06-01",
+      "flatSize": 100,
+      "rent": 525,
+      "type": "default",
+      "size": 21,
+      "image": {
+        "id": 2717758,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/10fb9890-3405-4306-a71b-017e37822a00",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/10fb9890-3405-4306-a71b-017e37822a00-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/10fb9890-3405-4306-a71b-017e37822a00-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1013,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/10fb9890-3405-4306-a71b-017e37822a00-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3024,
+            "height": 4032,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/10fb9890-3405-4306-a71b-017e37822a00-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/10fb9890-3405-4306-a71b-017e37822a00-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/10fb9890-3405-4306-a71b-017e37822a00-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/10fb9890-3405-4306-a71b-017e37822a00-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 338,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/10fb9890-3405-4306-a71b-017e37822a00-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Korntal-Münchingen",
+      "furnished": "partly",
+      "description": "Kosten\nMiete: 408€\nNebenkosten: 85€\nSonstige Kosten: 0€\nKaution: 800€\nAbstandszahlung: 0€\n\nLAGE:\nAdresse\nkallenbergstraße 74\n70825 Stuttgart Korntal-Münchingen\n\n\nVerfügbarkeit\nfrei ab: 01.06.2017\n\n\n21m² Zimmer in 4er WG\nWohnungsgröße: 100m²\n4er WG (0 Frauen und 0 Männer)\nBewohneralter: 18 bis 40 Jahre\nRauchen auf dem Balkon erlaubt\nStudenten-WG, Business-WG, gemischte WG\nSprache/n: Deutsch Englisch\n\nZimmer\n\n*Ideal für Praktikanten von PORSCHE, BOSCH, TRUMPF, Daimler oder Thales aufgrund der guten Lage*\n\n\nIch vermiete ein schönes Wg Zimmer in einer 4er Wg.\nDie Wohnung befindet sich im Erdgeschoss eines ruhigen Mehrfamilienhauses.\nIn der Wohnung gibt es ein Großzügiges Bad mit Dusche,Badewanne, sowie ein separates WC. Die Wohnung hat 50.000M/Bit Internet.\n\nAlle Mieter dürfen den großen Garten jederzeit Nutzen.\n\nAusstattung:\n- Kühlschrank 3x\n-Gefrierschrank\n-Waschmaschine\n-Spülmaschine\n- Ofen und Herd\n-Fahrradkeller\n- Internet 50.000\n- Garten, Balkon\n\nGaragenstellplatz kann zusätzlich gemietet werden.\n-> Die Wohnung wird gerade frisch renoviert, sodass jedes Zimmer einen neuen Boden und Tapeten bekommt. Es stehen vier neu renovierte Zimmer zur Verfügung sodass auch eine WG Neugründung möglich ist.\n\nBus, S-Bahn, Autobahn, Einkaufsläden in direkter Nähe.\n\nLage\n\nTolle Lage in direkter Nähe ist ein Einkaufsmarkt sowie ÖPNV.\nKallenbergstraße 74, 70825 Korntal-Münchingen\n\nWG-Leben\n\n4 Zimmer WG neu zu vermieten!\nWG NEUGRÜNDUNG MÖGLICH!\n\nSonstiges\n\n4 Zimmer WG neu zu vermieten!\nWG NEUGRÜNDUNG MÖGLICH!",
+      "creationDate": "2017-04-09",
+      "wantedAmountMale": 2,
+      "wantedAmountFemale": 2,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 40,
+      "imageCount": 4,
+      "city": {
+        "id": 8147,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Korntal-Münchingen",
+        "lat": 48.8464,
+        "lng": 9.10721,
+        "northLatitude": 48.8691,
+        "eastLongitude": 9.14316,
+        "southLatitude": 48.8235,
+        "westLongitude": 9.04807,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 266889,
+        "name": "WG Kallenberg",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2353579,
+      "title": "tolle WG Ideal für Praktikanten von PORSCHE, BOSCH, TRUMPF",
+      "addressHidden": true,
+      "borough": "Kallenberg",
+      "from": "2017-06-01",
+      "flatSize": 100,
+      "rent": 493,
+      "type": "default",
+      "size": 17,
+      "image": {
+        "id": 2717747,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2624be1d-cbe1-44c9-b640-7de650791cc7",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2624be1d-cbe1-44c9-b640-7de650791cc7-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2624be1d-cbe1-44c9-b640-7de650791cc7-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1013,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2624be1d-cbe1-44c9-b640-7de650791cc7-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3024,
+            "height": 4032,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2624be1d-cbe1-44c9-b640-7de650791cc7-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2624be1d-cbe1-44c9-b640-7de650791cc7-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2624be1d-cbe1-44c9-b640-7de650791cc7-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2624be1d-cbe1-44c9-b640-7de650791cc7-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 338,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2624be1d-cbe1-44c9-b640-7de650791cc7-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Korntal-Münchingen",
+      "furnished": "partly",
+      "description": "Kosten\nMiete: 408€\nNebenkosten: 85€\nSonstige Kosten: 0€\nKaution: 800€\nAbstandszahlung: 0€\n\nLAGE:\nAdresse\nkallenbergstraße 74\n70825 Stuttgart Korntal-Münchingen\nVerfügbarkeit:frei ab: 01.06.2017\n\nWohnungsgröße: 100m²\n4er WG (0 Frauen und 0 Männer)\nBewohneralter: 18 bis 40 Jahre\nRauchen auf dem Balkon erlaubt\nStudenten-WG, Business-WG, gemischte WG\nSprache/n: Deutsch Englisch\n\nZimmer\n\n*Ideal für Praktikanten von PORSCHE, BOSCH, TRUMPF, Daimler oder Thales aufgrund der guten Lage*\n\n\nIch vermiete ein schönes Wg Zimmer in einer 4er Wg.\nDie Wohnung befindet sich im Erdgeschoss eines ruhigen Mehrfamilienhauses.\nIn der Wohnung gibt es ein Großzügiges Bad mit Dusche,Badewanne, sowie ein separates WC. Die Wohnung hat 50.000M/Bit Internet.\n\nAlle Mieter dürfen den großen Garten jederzeit Nutzen.\n\nAusstattung:\n- Kühlschrank 3x\n-Gefrierschrank\n-Waschmaschine\n-Spülmaschine\n- Ofen und Herd\n-Fahrradkeller\n- Internet 50.000\n- Garten, Balkon\n\nGaragenstellplatz kann zusätzlich gemietet werden.\n-> Die Wohnung wird gerade frisch renoviert, sodass jedes Zimmer einen neuen Boden und Tapeten bekommt. Es stehen vier neu renovierte Zimmer zur Verfügung sodass auch eine WG Neugründung möglich ist.\n\nBus, S-Bahn, Autobahn, Einkaufsläden in direkter Nähe.\n\nLage\n\nTolle Lage in direkter Nähe ist ein Einkaufsmarkt sowie ÖPNV.\nKallenbergstraße 74, 70825 Korntal-Münchingen\n\nWG-Leben\n\n4 Zimmer WG neu zu vermieten!\nWG NEUGRÜNDUNG MÖGLICH!\n\nSonstiges\n\n4 Zimmer WG neu zu vermieten!\nWG NEUGRÜNDUNG MÖGLICH!",
+      "creationDate": "2017-04-09",
+      "wantedAmountMale": 2,
+      "wantedAmountFemale": 2,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 40,
+      "imageCount": 5,
+      "city": {
+        "id": 8147,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Korntal-Münchingen",
+        "lat": 48.8464,
+        "lng": 9.10721,
+        "northLatitude": 48.8691,
+        "eastLongitude": 9.14316,
+        "southLatitude": 48.8235,
+        "westLongitude": 9.04807,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 266889,
+        "name": "WG Kallenberg",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2353563,
+      "title": "WG Zimmer in 5er Haus-WG mit Garten direkt am Hbf!",
+      "addressHidden": true,
+      "from": "2017-05-01",
+      "flatSize": 170,
+      "rent": 300,
+      "type": "default",
+      "size": 17,
+      "image": {
+        "id": 2717644,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/27c6ae52-72b8-44c7-b47a-8342e952a4f7",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/27c6ae52-72b8-44c7-b47a-8342e952a4f7-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/27c6ae52-72b8-44c7-b47a-8342e952a4f7-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1013,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/27c6ae52-72b8-44c7-b47a-8342e952a4f7-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 1920,
+            "height": 2560,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/27c6ae52-72b8-44c7-b47a-8342e952a4f7-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/27c6ae52-72b8-44c7-b47a-8342e952a4f7-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/27c6ae52-72b8-44c7-b47a-8342e952a4f7-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/27c6ae52-72b8-44c7-b47a-8342e952a4f7-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 338,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/27c6ae52-72b8-44c7-b47a-8342e952a4f7-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Schifferstadt",
+      "furnished": "undefined",
+      "description": "Hallo,\n\nwir suchen ab sofort oder auch später drei Mitbewohner/innen für unsere neu gegründete 5er-Wg. Jedes Zimmer hat ungefähr 17m². Insgesamt verfügen wir über ein großes Erdgeschoss, indem Küche, Wohn- und Esszimmer miteinander verbunden sind. Hier wird zusammen gekocht, getrunken, gechillt, gespielt, geschlafen, gelabert, … Im 1. OG befinden sich drei gleich große Zimmer, die den Mitbewohnern als Rückzugsort dienen. Im 2. OG befindet sich ein Gästezimmer/Arbeitszimmer und ein weiteres vermietbares Zimmer. Bei einem Zimmer sind wir noch bei den Renovierungsarbeiten. Wir haben zwei Bäder, so dass es selten zu Staus kommt. Im Keller ist jede Menge Platz zum Deponieren von Möbeln und Zeugs… Parkplätze sind kein Problem. Wie ihr auf den Bildern sehen könnt, sind wir noch am Einrichten, damit es auch richtig gemütlich wird.\nUnser Garten wird zurzeit für den Sommer vorbereitet. Dort sind wir oft zum Grillen (Hobby!) und trinken ein paar kalte Biere. Wer auf Gartenarbeit steht, kann sich natürlich selbst verwirklichen ;-)\nOb ihr berufstätig seid, studiert, promoviert, praktiziert oder was auch immer, ist uns erstmal gleichgültig. Ebenfalls ist die Dauer eurer Mietzeit zweitrangig. Unbefristet oder zur Zwischenmiete ist alles möglich. Jede gute Beschreibung bringt nichts, wenn man sich nicht mal kennen lernt. Deswegen würden wir uns sehr freuen, wenn Du dir die Zimmer auf ein Kaltgetränk anschauen kommst!\n \nBei Fragen oder Terminvorschlägen einfach mal mailen. Ansonsten wären ein paar Worte über dich vorteilhaft und dann können wir gerne einen Termin ausmachen! Gerne kannst du uns auch anschreiben, wenn du erst im Mai oder Juni ein Zimmer suchst. Wir antworten so schnell es geht!\n\nGrüße und bis dato!\n\nTobi und Nadine",
+      "creationDate": "2017-04-09",
+      "membersManCount": 1,
+      "membersWomanCount": 2,
+      "wantedAgeFrom": 1,
+      "wantedAgeTo": 99,
+      "imageCount": 8,
+      "city": {
+        "id": 8373,
+        "country": "Deutschland",
+        "state": "Rheinland-Pfalz",
+        "name": "Schifferstadt",
+        "lat": 49.3829,
+        "lng": 8.37671,
+        "northLatitude": 49.4154,
+        "eastLongitude": 8.42002,
+        "southLatitude": 49.3473,
+        "westLongitude": 8.32696,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 268847,
+        "name": "Tobias",
+        "aboutMe": "Wir sind beide 30 Jahre alt und berufstätig. Wir gehen abends gerne mal nach Mannheim oder zu Freunden. Natürlich kommen diese uns auch ab und zu besuchen. Wir verbringen sehr gerne Zeit in der Sonne, irgendwo in einem Park oder am Rhein. Ich fahre so oft es mir möglich ist Skateboard und Nadine spielt gerne Handball.",
+        "gender": "male"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2344701,
+      "title": "Schönes möbliertes Zimmer in 2er WG; 5min bis HBF",
+      "addressHidden": false,
+      "lat": 52.5342,
+      "lng": 13.3586,
+      "from": "2017-04-13",
+      "flatSize": 95,
+      "rent": 380,
+      "type": "default",
+      "size": 20,
+      "image": {
+        "id": 2708303,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4415aa3c-01e8-40d2-b87a-eb520b096c29",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4415aa3c-01e8-40d2-b87a-eb520b096c29-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4415aa3c-01e8-40d2-b87a-eb520b096c29-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1024,
+            "height": 683,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4415aa3c-01e8-40d2-b87a-eb520b096c29-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 1024,
+            "height": 683,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4415aa3c-01e8-40d2-b87a-eb520b096c29-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4415aa3c-01e8-40d2-b87a-eb520b096c29-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4415aa3c-01e8-40d2-b87a-eb520b096c29-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4415aa3c-01e8-40d2-b87a-eb520b096c29-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 400,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4415aa3c-01e8-40d2-b87a-eb520b096c29-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Berlin",
+      "furnished": "true",
+      "creationDate": "2017-04-07",
+      "membersWomanCount": 1,
+      "imageCount": 2,
+      "city": {
+        "id": 3611,
+        "country": "Deutschland",
+        "state": "Berlin",
+        "name": "Berlin",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 52.52,
+        "lng": 13.405,
+        "northLatitude": 52.6755,
+        "eastLongitude": 13.7611,
+        "southLatitude": 52.3396,
+        "westLongitude": 13.0912,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 268504,
+        "name": "Mariasava",
+        "job": "working",
+        "gender": "undefined",
+        "birthday": "1990-10-11"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2344684,
+      "title": "furnished room in Berlin for 1 or 2 persons",
+      "addressHidden": false,
+      "lat": 52.5076,
+      "lng": 13.2349,
+      "borough": "Bezirk Charlottenburg-Wilmersdorf",
+      "from": "2017-04-08",
+      "flatSize": 110,
+      "rent": 400,
+      "type": "default",
+      "size": 19,
+      "status": "active",
+      "cityName": "Berlin",
+      "furnished": "true",
+      "description": "Room\n\nAuf über 110 Quadratmetern bieten wir euch mit 2 Zimmern, einer riesigen Küche mit Profi-Geräten und einem grünen Garten eine Wohngemeinschaft, die es so in Berlin kein zweites Mal gibt. Ruhig und dennoch nahe am Zentrum gelegen.\n\nINTERESSIERT?\n\nSuper! Wir haben grundsätzlich von Montag bis Freitag jeweils von 08:00 – 18:00 Uhr Open House. Bitte vereinbart einen Termin zu unseren Öffnungszeiten oder nutzt das Kontaktformular. Ihr könnt zur Besichtigung gleich die ausgefüllte Mieterselbstauskunft mitbringen.\n\nLest bitte sorgfältig die Hausordnung durch, bevor ihr einen Termin vereinbart.\n\nBitte beachtet, dass wir unsere Zimmer mit einer Mindestlaufzeit von 3 Monaten vermieten.\nLeider können wir euch aus organisatorischen Gründen keine kürzeren Verträge anbieten.\n   \nLocation\n\nSchnell zur Uni? In weniger als 30 Minuten steht ihr am Theodor-Heuss-Platz mit MacBook und Smoothie. Oder geht auf ein Konzert in der Waldbühne. Nicht einmal 15 Minuten zu Fuß und ihr tanzt direkt vor eurem Lieblingssänger. Und im Sommer mit einem Carsharing-Auto ab zum Wannsee. Das dauert keine halbe Stunde!\n\n   \nFlatshare Type\n\nEinige unserer Zimmer verfügen über ein eigenes Badezimmer mit WC und Dusche. Diese Info seht ihr, wenn ihr in den Grundrissen auf ein Zimmer klickt. Alle anderen Zimmer haben Zugang zu den Gemeinschaftsbädern. Das sind insgesamt 13 Duschen und 13 WCs.\n\nGenerell werden die Zimmer unmöbliert vermietet. Wir können aber auch bei Bedarf Betten, Tische und Stühle anbieten. Gebt dies bitte bei der Bewerbung an.\n\n   \nMiscellaneous\n\nWir haben noch viele weitere Zimmer im Angebot. Schau doch auf https://cosy-wg.com/ vorbei für mehr Infos.",
+      "creationDate": "2017-04-07",
+      "wantedAmountMale": 1,
+      "wantedAmountFemale": 1,
+      "membersManCount": 1,
+      "membersWomanCount": 1,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 42,
+      "imageCount": 0,
+      "city": {
+        "id": 3611,
+        "country": "Deutschland",
+        "state": "Berlin",
+        "name": "Berlin",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 52.52,
+        "lng": 13.405,
+        "northLatitude": 52.6755,
+        "eastLongitude": 13.7611,
+        "southLatitude": 52.3396,
+        "westLongitude": 13.0912,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 266273,
+        "name": "rene riedling",
+        "aboutMe": "im reliable person and quite",
+        "gender": "male",
+        "birthday": "1985-08-20"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2340675,
+      "title": "mobliertes Mädchenzimmer sucht dich",
+      "addressHidden": false,
+      "lat": 51.2586,
+      "lng": 7.13895,
+      "borough": "Elberfeld",
+      "from": "2017-08-01",
+      "to": "2018-01-01",
+      "flatSize": 100,
+      "rent": 300,
+      "type": "default",
+      "size": 14,
+      "image": {
+        "id": 2704126,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7fb8f067-e7cf-4816-9558-9d681dbd7a68",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7fb8f067-e7cf-4816-9558-9d681dbd7a68-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7fb8f067-e7cf-4816-9558-9d681dbd7a68-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 720,
+            "height": 960,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7fb8f067-e7cf-4816-9558-9d681dbd7a68-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 720,
+            "height": 960,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7fb8f067-e7cf-4816-9558-9d681dbd7a68-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7fb8f067-e7cf-4816-9558-9d681dbd7a68-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7fb8f067-e7cf-4816-9558-9d681dbd7a68-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7fb8f067-e7cf-4816-9558-9d681dbd7a68-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 338,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/7fb8f067-e7cf-4816-9558-9d681dbd7a68-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Wuppertal",
+      "furnished": "true",
+      "description": "Das Zimmer verfügt über alles was es für ein schönes Studenten-leben braucht.Ich persönlich fühle mich super wohl in dem Raum. Mit seinen hohen Decken und dem großen Fenster ist er sehr hell und freundlich. Ich gebe mein Zimmer, ab August (eventuell auch etwas früher), vollkommen möbliert an dich ab. Meine persönlichen Fotos etc. werde ich selbstverständlich mitnehmen, aber ansonsten bleibt es wie es auf den Fotos zu sehen ist. \nVorhanden ist: \n-Ein Hochbett mit Matratze, Fernseher, Nachtschrank und Bücherregal\n-Ein Schminkschrank mit ( einsturzgefährdeten :D) Schminkhocker\n-Ein Sekräter mit einem Schreibttischstuhl für lange fleißige Nächte in der Klausurphase \n-Ein ausziehbares Sofa (Schlafplatz für 2-3 Personen) \n-Ein großer Kleiderschrank mit passender Komode \n\nWenn du\n\n möchtest lasse ich auch gerne Bettwäsche und Handtücher für dich da.",
+      "creationDate": "2017-04-06",
+      "wantedAmountFemale": 1,
+      "membersManCount": 2,
+      "membersWomanCount": 1,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 28,
+      "imageCount": 10,
+      "city": {
+        "id": 3652,
+        "country": "Deutschland",
+        "state": "Nordrhein-Westfalen",
+        "name": "Wuppertal",
+        "seoRelevant": true,
+        "lat": 51.2562,
+        "lng": 7.15076,
+        "northLatitude": 51.3181,
+        "eastLongitude": 7.31344,
+        "southLatitude": 51.1657,
+        "westLongitude": 7.0141,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 268333,
+        "name": "Melina Freudenthal",
+        "aboutMe": "Mein Name ist Melina und Ich studiere in Wuppertal. Im Sommer werde ich in mein zweites Auslandssemester gehen und suche dich daher als coole Zwischenmieterin. \nPS: da ich aktuell in Budapest bin, schreib mir am besten über WhatsApp, denn nur da bin ich erreichbar. \n\nWir freuen uns dich kennenzulernen",
+        "job": "Studentin",
+        "gender": "undefined",
+        "birthday": "1997-04-13"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2340635,
+      "title": "Nette 5er WG sucht neuen Mitbewohner im Bahnhof Stadtroda",
+      "addressHidden": false,
+      "lat": 50.868,
+      "lng": 11.7229,
+      "from": "2017-04-01",
+      "flatSize": 100,
+      "rent": 280,
+      "type": "default",
+      "size": 25,
+      "image": {
+        "id": 2703829,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8d3cbb6d-acd7-4abb-a9aa-e7f67e1ab454",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8d3cbb6d-acd7-4abb-a9aa-e7f67e1ab454-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8d3cbb6d-acd7-4abb-a9aa-e7f67e1ab454-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 745,
+            "height": 493,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8d3cbb6d-acd7-4abb-a9aa-e7f67e1ab454-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 745,
+            "height": 493,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8d3cbb6d-acd7-4abb-a9aa-e7f67e1ab454-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8d3cbb6d-acd7-4abb-a9aa-e7f67e1ab454-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8d3cbb6d-acd7-4abb-a9aa-e7f67e1ab454-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8d3cbb6d-acd7-4abb-a9aa-e7f67e1ab454-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 397,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/8d3cbb6d-acd7-4abb-a9aa-e7f67e1ab454-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Stadtroda",
+      "furnished": "undefined",
+      "creationDate": "2017-04-06",
+      "imageCount": 9,
+      "city": {
+        "id": 13329,
+        "country": "Deutschland",
+        "state": "Thüringen",
+        "name": "Stadtroda",
+        "lat": 50.8586,
+        "lng": 11.7301,
+        "northLatitude": 50.8825,
+        "eastLongitude": 11.7933,
+        "southLatitude": 50.839,
+        "westLongitude": 11.681,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 267931,
+        "name": "Emre Budak",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2340623,
+      "title": "Zwei Zimmer einer WG zu vermieten",
+      "addressHidden": true,
+      "from": "2017-06-01",
+      "flatSize": 200,
+      "rent": 800,
+      "type": "default",
+      "size": 40,
+      "status": "active",
+      "cityName": "Memmingen",
+      "furnished": "partly",
+      "description": "Es handelt sich um zwei separate Zimmer (von der jetzigen Bewohnerin als Wohn - und Schlafzimmer verwendet)\nEs ist eine hochwertige WG mit toller Ausstattung.\nReinigungskraft kommt regelmäßig und ist im Mietpreis dabei.",
+      "creationDate": "2017-04-06",
+      "imageCount": 0,
+      "city": {
+        "id": 4045,
+        "country": "Deutschland",
+        "state": "Bayern",
+        "name": "Memmingen",
+        "lat": 47.9838,
+        "lng": 10.1802,
+        "northLatitude": 48.0475,
+        "eastLongitude": 10.2339,
+        "southLatitude": 47.9155,
+        "westLongitude": 10.0848,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 172745,
+        "name": "Daniel",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2340615,
+      "title": "22 qm Zimmer in Heidelberg",
+      "addressHidden": false,
+      "lat": 49.4108,
+      "lng": 8.70998,
+      "from": "2017-05-01",
+      "flatSize": 102,
+      "rent": 380,
+      "type": "default",
+      "size": 22,
+      "status": "active",
+      "cityName": "Heidelberg",
+      "furnished": "undefined",
+      "description": "Hallo liebe Leute, wunderschönes Zimmer im Wohnhaus in der Heidelberger Altstadt (Krämergasse) zu vergeben!! \nHarmonisches Wohnen in Top Lage, schnell zur Uni, Mensa und direkt zentral in der Stadt. Das Zimmer ist voll möbliert, (Bett, Kleiderschrank, Schreibtisch, Regal, kleine Kochecke mit Kochplatte und Kühlschrank, etc. vorhanden). Großes Badezimmer. Badezimmer wird jede Woche gereinigt.\nFahrradabstellplatz im Haus vorhanden. Warmmiete beträgt 380,00 € inkl. Nebenkosten.\n\n\nUnsere Villa befindet sich direkt am Karlsplatz mitten in der Heidelberger Altstadt, mit direktem Blick auf das Heidelberger Schloss!\nZu Fuß braucht man 5 Minuten zur Neuen Uni bzw. 10 Minuten mit dem Bus zum Neuenheimer Feld.\nDie nächste Bushaltestelle ist gerade mal 2 Minuten entfernt. Nach Mannheim\n gelangt man schnell über den Bahnhof Altstadt, der sich 5 Minuten in die andere Richtung befindet.\nDurch diese äußerst zentrale Lage in der Altstadt findet man außerdem sehr schnell den Zugang zu den Einkaufsmöglichkeiten und Studentenkneipen Heidelbergs.",
+      "creationDate": "2017-04-06",
+      "wantedAmountMale": 1,
+      "wantedAmountFemale": 2,
+      "membersManCount": 1,
+      "membersWomanCount": 2,
+      "wantedAgeFrom": 17,
+      "wantedAgeTo": 45,
+      "imageCount": 0,
+      "city": {
+        "id": 3641,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Heidelberg",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 49.4225,
+        "lng": 8.75386,
+        "northLatitude": 49.4518,
+        "eastLongitude": 8.77671,
+        "southLatitude": 49.4126,
+        "westLongitude": 8.72537,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 268190,
+        "name": "tbanky",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2340613,
+      "title": "Renovierte zentrale 2 Zimmer  Wohnung Jahnplatz 2 Essen 500 €",
+      "addressHidden": false,
+      "lat": 51.4681,
+      "lng": 6.97951,
+      "borough": "Stadtbezirke III",
+      "from": "2017-04-10",
+      "flatSize": 42,
+      "rent": 500,
+      "type": "default",
+      "size": 17,
+      "image": {
+        "id": 2703675,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4945296b-ea0a-4722-b8ba-16f0e141f7a8",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4945296b-ea0a-4722-b8ba-16f0e141f7a8-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4945296b-ea0a-4722-b8ba-16f0e141f7a8-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 900,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4945296b-ea0a-4722-b8ba-16f0e141f7a8-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3456,
+            "height": 5184,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4945296b-ea0a-4722-b8ba-16f0e141f7a8-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4945296b-ea0a-4722-b8ba-16f0e141f7a8-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4945296b-ea0a-4722-b8ba-16f0e141f7a8-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4945296b-ea0a-4722-b8ba-16f0e141f7a8-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 300,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4945296b-ea0a-4722-b8ba-16f0e141f7a8-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Essen",
+      "furnished": "undefined",
+      "description": "Guten Tag =)\n\nIch biete eine sehr zentral gelegene Wohnung in Essen Altendorf 45143 am Jahnplatz 2 an.\nDie Wohnung befindet sich in 2 Km Entfernung zur Universität Essen , wodurch die UNI sehr schnell erreicht werden kann.\nMan könnte sogar zu Fuß bis zur Uni gehen.\nDie \" City\" von Essen kann ebenfalls\n sehr schnell mit dem Auto bzw. Bus und Bahn erreicht werden.\nVor der Wohnung befindet sich in weniger als 1 Minute Geh zeit eine Straßenbahnhaltestelle ,sodass die Nutzung der öffentlichen Verkehrsmittel besonders komfortabel ist.\nWeiterhin findet man in der Hausnähe zahlreiche Geschäfte sowie Lebensmittelgeschäfte, sowie Einrichtungen zur Freizeitgestaltung.\nEs gibt einen Keller und die Möglichkeit dort eine Waschmaschine abzustellen.\nWeiterhin ist ein Park direkt vor der Haustür und es besteht die Möglichkeit den Garten zu nutzen.\nVor dem Haus gibt es genug Parkplätze.\nEs handelt sich um eine warme und auch sonnige Wohnung im 1 Obergeschoss.\nDie Wohnung besteht aus 2 Zimmern zu denen noch eine Küche , Bad, und Flur hinzukommen.\nFalls Fragen offen geblieben sind erreichen Sie mich unter 015234501590\ngerne auch per Whatsapp: 015234501590\nDie Wohnung wurde diesen Monat frisch Renoviert, sodass Sie absolut Neuwertig ist und Sie der Erstnutzer wären.\nDie Wohnung kann auch als WG genutzt werden.\nWeiterhin habe ich zur Aufteilung der Zimmer ein Video gedreht und könnte diese per WhatsApp oder Email zuschicken.",
+      "creationDate": "2017-04-06",
+      "wantedAmountMale": 2,
+      "wantedAmountFemale": 2,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 50,
+      "imageCount": 16,
+      "city": {
+        "id": 3639,
+        "country": "Deutschland",
+        "state": "Nordrhein-Westfalen",
+        "name": "Essen",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 51.4157,
+        "lng": 7.11681,
+        "northLatitude": 51.417,
+        "eastLongitude": 7.11816,
+        "southLatitude": 51.4144,
+        "westLongitude": 7.11546,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 162498,
+        "name": "Emil",
+        "aboutMe": "Hey mein Name ist Emil Strelz, ich bin 21 Jahre alt und studiere Medizin an der Ruhr-universität-Bochum im 4 Semester. \n\nTel 015234501590",
+        "job": "Medizinstudent",
+        "gender": "male",
+        "birthday": "1995-07-10",
+        "image": {
+          "id": 1908381,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 720,
+              "height": 960,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/63ae27f3-a502-438b-95e6-178217619ffe-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2336468,
+      "title": "ruhige WG in St. Leon-Rot mit Garten -  Nähe SAP",
+      "addressHidden": true,
+      "borough": "Rot",
+      "from": "2017-10-01",
+      "flatSize": 117,
+      "rent": 355,
+      "type": "default",
+      "size": 16,
+      "image": {
+        "id": 2699371,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4347468d-12ea-463f-ba19-c1c48e3b7e12",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4347468d-12ea-463f-ba19-c1c48e3b7e12-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4347468d-12ea-463f-ba19-c1c48e3b7e12-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1013,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4347468d-12ea-463f-ba19-c1c48e3b7e12-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3840,
+            "height": 2160,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4347468d-12ea-463f-ba19-c1c48e3b7e12-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4347468d-12ea-463f-ba19-c1c48e3b7e12-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4347468d-12ea-463f-ba19-c1c48e3b7e12-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4347468d-12ea-463f-ba19-c1c48e3b7e12-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 338,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/4347468d-12ea-463f-ba19-c1c48e3b7e12-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Sankt Leon-Rot",
+      "furnished": "true",
+      "description": "- Einkaufsmöglichkeiten zu Fuß erreichbar (Bäcker, Eisdiele, usw)\n- Garten kann benutzt werden. Gartenmöbel sind vorhanden und Grillen ist auch möglich\n- Bus Haltestelle sehr nah\n- Bahn Rot-Malsch in 15 min. mit Fahrrad erreichbar\n- Möglichkeit Fahrrad sicher abzustellen.",
+      "creationDate": "2017-04-05",
+      "wantedAmountFemale": 1,
+      "membersWomanCount": 1,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 99,
+      "imageCount": 13,
+      "city": {
+        "id": 9438,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Sankt Leon-Rot",
+        "lat": 49.2653,
+        "lng": 8.59861,
+        "northLatitude": 49.2915,
+        "eastLongitude": 8.65763,
+        "southLatitude": 49.2353,
+        "westLongitude": 8.56147,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 268036,
+        "name": "Gisella Dominguez Anzuinelli",
+        "job": "Software entwickler",
+        "gender": "female",
+        "birthday": "1976-11-01",
+        "image": {
+          "id": 2699363,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/4aa136ff-c516-4de6-87aa-6dfce9162675",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/4aa136ff-c516-4de6-87aa-6dfce9162675-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/4aa136ff-c516-4de6-87aa-6dfce9162675-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 200,
+              "height": 212,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/4aa136ff-c516-4de6-87aa-6dfce9162675-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/4aa136ff-c516-4de6-87aa-6dfce9162675-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/4aa136ff-c516-4de6-87aa-6dfce9162675-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/4aa136ff-c516-4de6-87aa-6dfce9162675-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2336460,
+      "title": "Wohnung in der Nähe der FH und Hbf im Südviertel",
+      "addressHidden": false,
+      "lat": 50.7669,
+      "lng": 6.08562,
+      "borough": "Mitte",
+      "from": "2017-04-21",
+      "to": "2017-09-30",
+      "flatSize": 70,
+      "rent": 360,
+      "type": "default",
+      "size": 20,
+      "image": {
+        "id": 2699314,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e8bae826-c651-4367-8f7e-2db1b48936e9",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e8bae826-c651-4367-8f7e-2db1b48936e9-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e8bae826-c651-4367-8f7e-2db1b48936e9-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 759,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e8bae826-c651-4367-8f7e-2db1b48936e9-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 2988,
+            "height": 5312,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e8bae826-c651-4367-8f7e-2db1b48936e9-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e8bae826-c651-4367-8f7e-2db1b48936e9-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e8bae826-c651-4367-8f7e-2db1b48936e9-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e8bae826-c651-4367-8f7e-2db1b48936e9-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 253,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e8bae826-c651-4367-8f7e-2db1b48936e9-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Aachen",
+      "furnished": "true",
+      "creationDate": "2017-04-05",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "imageCount": 9,
+      "city": {
+        "id": 3859,
+        "country": "Deutschland",
+        "state": "Nordrhein-Westfalen",
+        "name": "Aachen",
+        "seoRelevant": true,
+        "lat": 50.7753,
+        "lng": 6.08389,
+        "northLatitude": 50.8572,
+        "eastLongitude": 6.21815,
+        "southLatitude": 50.6621,
+        "westLongitude": 5.9749,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 266377,
+        "name": "Sandra",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2336458,
+      "title": "Zwei Zimmer in Traum-WG",
+      "addressHidden": true,
+      "from": "2017-04-15",
+      "flatSize": 189,
+      "rent": 650,
+      "type": "default",
+      "size": 37,
+      "image": {
+        "id": 2699305,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/99ac1d30-b369-4a6e-b2b9-f87818a29894",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/99ac1d30-b369-4a6e-b2b9-f87818a29894-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/99ac1d30-b369-4a6e-b2b9-f87818a29894-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1198,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/99ac1d30-b369-4a6e-b2b9-f87818a29894-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3088,
+            "height": 2056,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/99ac1d30-b369-4a6e-b2b9-f87818a29894-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/99ac1d30-b369-4a6e-b2b9-f87818a29894-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/99ac1d30-b369-4a6e-b2b9-f87818a29894-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/99ac1d30-b369-4a6e-b2b9-f87818a29894-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 399,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/99ac1d30-b369-4a6e-b2b9-f87818a29894-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Stuttgart",
+      "furnished": "undefined",
+      "description": "Wir haben zwei wunderschöne Zimmer (18 und 19 qm) in unserer 4er- Gemeinschaft zu vergeben. Die Zimmer sind durch eine Türe miteinander verbunden, eines der Zimmer hat Zugang zu einem der drei Balkone. Unsere Wohnung ist riesig, Altbauflair mit hohen Decken und Stuck.",
+      "creationDate": "2017-04-05",
+      "wantedAmountEven": 1,
+      "membersWomanCount": 3,
+      "wantedAgeFrom": 30,
+      "wantedAgeTo": 50,
+      "imageCount": 2,
+      "city": {
+        "id": 3656,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Stuttgart",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 48.7754,
+        "lng": 9.18176,
+        "northLatitude": 48.8664,
+        "eastLongitude": 9.31583,
+        "southLatitude": 48.692,
+        "westLongitude": 9.03861,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 267995,
+        "name": "Suzie Rosina",
+        "aboutMe": "Wer sind wir?\n\nSusie (49), Theatertherapeutin usw., träumt von einer WG mit Menschen, die ebenfalls auf dem spirituellen Weg sind und wissen, dass es da mehr gibt als das, was wir mit unseren Augen sehen.\nKatja (34), Hebamme, freut sich über ein friedliches und harmonisches Miteinander.\nJana (27), Referandarin liebt es gemeinsam zu kochen und zu quatschen.",
+        "job": "Theatertherapeutin",
+        "gender": "female",
+        "birthday": "1967-12-17",
+        "image": {
+          "id": 2699303,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/17426d2e-db93-48b7-991d-d8318e6008fc",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/17426d2e-db93-48b7-991d-d8318e6008fc-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/17426d2e-db93-48b7-991d-d8318e6008fc-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/17426d2e-db93-48b7-991d-d8318e6008fc-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/17426d2e-db93-48b7-991d-d8318e6008fc-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/17426d2e-db93-48b7-991d-d8318e6008fc-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/17426d2e-db93-48b7-991d-d8318e6008fc-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2332315,
+      "title": "ruhig gelegen, zentral angebunden, 300m bis zum Rhein",
+      "addressHidden": false,
+      "lat": 50.6605,
+      "lng": 7.19212,
+      "from": "2017-04-01",
+      "flatSize": 51,
+      "rent": 425,
+      "type": "default",
+      "size": 18,
+      "image": {
+        "id": 2695005,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11f25e5d-586a-40c4-83c5-f92677847595",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11f25e5d-586a-40c4-83c5-f92677847595-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11f25e5d-586a-40c4-83c5-f92677847595-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11f25e5d-586a-40c4-83c5-f92677847595-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 4608,
+            "height": 3456,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11f25e5d-586a-40c4-83c5-f92677847595-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11f25e5d-586a-40c4-83c5-f92677847595-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11f25e5d-586a-40c4-83c5-f92677847595-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11f25e5d-586a-40c4-83c5-f92677847595-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/11f25e5d-586a-40c4-83c5-f92677847595-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Bonn",
+      "furnished": "true",
+      "description": "möbliertes Zimmer in 2er WG\nca. 18 qm in 1. Etage in Altbau in der Mitte Bonn-Mehlem, Bus-Haltestelle \"Mehlem Ort\" ca. 100m (ca. 25 min bis Bonn Hbf und Nachtbus), Geschäfte, Ärzte, Banken, Grundschule, Kindergarten, Post-Shop bequem zu Fuß zu erreichen. ca. 300m bis zum Rhein.\n\nObjekt: ca. 198 qm über 3 Etagen, Treppenlift bis zur 1. möglich, Etage, 2. und 3. Etage vermietet, möblierte Küche mit Balkon(Ceran-Kochfeld, Kühl-Gefrierkombination, Abstellkammer) in 1. Etage, Bad mit Dusche und separatem WC in 1. Etage.\n\nWaschmaschine, Trockner und Fahrradstellplatz im EG; Gasheizung, Energieklasse „H“, Fußböden gefliest oder Teppichboden, 2015 renoviert,",
+      "creationDate": "2017-04-04",
+      "wantedAmountEven": 1,
+      "membersWomanCount": 1,
+      "imageCount": 4,
+      "city": {
+        "id": 3659,
+        "country": "Deutschland",
+        "state": "Nordrhein-Westfalen",
+        "name": "Bonn",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 50.7366,
+        "lng": 7.08116,
+        "northLatitude": 50.7379,
+        "eastLongitude": 7.0825,
+        "southLatitude": 50.7352,
+        "westLongitude": 7.07981,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 267852,
+        "name": "Peter Sievert",
+        "gender": "male"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2329976,
+      "title": "Zimmer in Luxus-WG mit riesigem Gemeinschaftsbereich und großartiger Verkehrsanbindung",
+      "addressHidden": false,
+      "lat": 48.1759,
+      "lng": 16.3835,
+      "borough": "Favoriten",
+      "from": "2017-04-07",
+      "flatSize": 120,
+      "rent": 520,
+      "type": "default",
+      "size": 15,
+      "image": {
+        "id": 2692264,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/54aa12e0-cd67-4cbe-a109-7e7c8a694b91",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/54aa12e0-cd67-4cbe-a109-7e7c8a694b91-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/54aa12e0-cd67-4cbe-a109-7e7c8a694b91-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 846,
+            "height": 842,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/54aa12e0-cd67-4cbe-a109-7e7c8a694b91-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 846,
+            "height": 842,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/54aa12e0-cd67-4cbe-a109-7e7c8a694b91-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/54aa12e0-cd67-4cbe-a109-7e7c8a694b91-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/54aa12e0-cd67-4cbe-a109-7e7c8a694b91-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/54aa12e0-cd67-4cbe-a109-7e7c8a694b91-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 597,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/54aa12e0-cd67-4cbe-a109-7e7c8a694b91-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Wien",
+      "furnished": "true",
+      "description": "Fläche des Zimmers: 15 m²\nWohnung gesamt: 120 m²\ngemeinschaftlicher Bereich: 67 m²\nKaution: 2 Monatsmieten (1040 Euro)\nAblöse: keine\n\nAdresse: Mundygasse \nBaujahr: um 1900\nRaumhöhe: circa 3,15 Meter\n\nDie Wohnung ist unser Eigentum und entsprechend schön hergerichtet. Alle Bereiche, die keinen Parkettboden haben, sind mit Feinsteinzeug verfliest und mit Fußbodenheizung ausgestattet. Es gibt zwei Toiletten und ein dezent ausgestattetes, großes Badezimmer mit zwei Waschbecken, Badewanne und separater Dusche in frischem Limettengrün (eigener Raum). Die Küche enthält fast alles außer einem Replikator, inklusive eines gemütlichen, großen Küchen-Sit-In-und-Essgelagetisches. Das jugendstilige Wohnzimmer ist ebenfalls Gemeinschaftsbereich, diverses handgeschnitztes, chinesisches Mobiliar mischt sich freundlich mit IKEA. Ein paar kosmetische Kleinigkeiten wie Sesselleisten werden in der Wohnung noch gemacht. Keine davon beeinträchtigt jedoch die Benutzbarkeit der Wohnung.\n\nDas zu vermietende Zimmer ist 15 m² groß, sehr hell und gut temperiert sowie ausgesprochen ruhig, da die Fenster auf eine wenig befahrene 30er Zone weisen. Auch ist es vollständig möbliert. Derzeit sind ein großes Bett, sowie Schrank und Schreibtisch im Zimmer. Auf Wunsch organisieren wir auch noch andere Möbel. Die Kosten dafür übernehmen dann natürlich wir. Bei der Auswahl darf gerne mitbestimmt werden. \n\nDie Wohnung befindet sich im 1. Liftstock und ist mit allem ausgestattet, was man so braucht, Waschmaschine, Wäschetrockner, Gasherd, Ofen, zwei Kühl- und Gefrierschränken, Standard-Küchenutensilien inklusive Besteck, Teller etc.",
+      "creationDate": "2017-04-04",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "membersWomanCount": 1,
+      "wantedAgeFrom": 20,
+      "wantedAgeTo": 50,
+      "imageCount": 12,
+      "city": {
+        "id": 3775,
+        "country": "Österreich",
+        "state": "Wien",
+        "name": "Wien",
+        "lat": 48.2082,
+        "lng": 16.3738,
+        "northLatitude": 48.3231,
+        "eastLongitude": 16.5775,
+        "southLatitude": 48.1183,
+        "westLongitude": 16.1826,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 267688,
+        "name": "Stefan",
+        "gender": "male"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2329763,
+      "title": "Kleine aber feine WG zentral in der Zellerau",
+      "addressHidden": true,
+      "from": "2017-07-01",
+      "flatSize": 60,
+      "rent": 390,
+      "type": "default",
+      "size": 14,
+      "image": {
+        "id": 2691666,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e2fd8302-8436-4509-840e-bee760f38943",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e2fd8302-8436-4509-840e-bee760f38943-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e2fd8302-8436-4509-840e-bee760f38943-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 760,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e2fd8302-8436-4509-840e-bee760f38943-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 1331,
+            "height": 2364,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e2fd8302-8436-4509-840e-bee760f38943-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e2fd8302-8436-4509-840e-bee760f38943-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e2fd8302-8436-4509-840e-bee760f38943-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e2fd8302-8436-4509-840e-bee760f38943-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 253,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/e2fd8302-8436-4509-840e-bee760f38943-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Würzburg",
+      "furnished": "false",
+      "description": "Die Wohnung ist klein aber fein und mein ganzer Stolz. Ich habe versucht sie clean aber schön einzurichten. Dein Zimmer befindet sich direkt links von der Eingangstür und hat ein Fenster, direkt daneben befindet sich mein Zimmer. Bei deinem Zimmer hast du alle Gestaltungsmöglichkeiten und wie du an meinen Zimmer sehen wirst, kann man es sich wirklich kuschelig und gemütlich machen. Das Bad ist Dezember 2016 mit  neuer Toilette und Waschbecken ausgestattet worden, ansonsten strahlt das Badezimmer mit Altbau-Charme. In der Küche befindet sich eine neue Küchenzeile mit Herd, Backofen und Kühlschrank, die mir besonders am Herzen liegt und pfleglich zu behandeln ist.",
+      "creationDate": "2017-04-03",
+      "wantedAmountEven": 1,
+      "membersWomanCount": 1,
+      "imageCount": 5,
+      "city": {
+        "id": 3634,
+        "country": "Deutschland",
+        "state": "Bayern",
+        "name": "Würzburg",
+        "seoRelevant": true,
+        "lat": 49.7913,
+        "lng": 9.95335,
+        "northLatitude": 49.8455,
+        "eastLongitude": 10.0144,
+        "southLatitude": 49.7107,
+        "westLongitude": 9.87163,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 267534,
+        "name": "Anna Väth",
+        "aboutMe": "Neben meiner Arbeit nehmen meine beiden Hunde viel Zeit in Anspruch, sowie meine große Leidenschaft Bikram Yoga. Ich bin ein freundlicher, aufschlossener Mensch, der für fast jeden Spaß zu haben ist. Bevor ich es vergesse, ich lebe vegan, ganz komplett vom Essen über die Klamotten bis hin zum Putzmittel ;) Ich bin lebensfroh und unternehmungslustig, gerne gehe ich auch am Wochenende feiern und ziehe mit meinen Freunden durchs Würzburg Nachtleben. Aber auch ein entspannter Sonntag mit Film, Kochen und Quatschen mag ich ganz gern. An sich bin ich viel unterwegs und definitiv kein Stubenhocker.",
+        "job": "Krankenschwester",
+        "gender": "female",
+        "image": {
+          "id": 2691675,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/eb60e247-2eef-45c2-a9d4-ce912bc75743",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/eb60e247-2eef-45c2-a9d4-ce912bc75743-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/eb60e247-2eef-45c2-a9d4-ce912bc75743-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 1448,
+              "height": 2172,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/eb60e247-2eef-45c2-a9d4-ce912bc75743-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/eb60e247-2eef-45c2-a9d4-ce912bc75743-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/eb60e247-2eef-45c2-a9d4-ce912bc75743-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/eb60e247-2eef-45c2-a9d4-ce912bc75743-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2328158,
+      "title": "Nettes Zimmer in noch netterer WG",
+      "addressHidden": false,
+      "lat": 50.6008,
+      "lng": 8.67555,
+      "from": "2017-05-01",
+      "flatSize": 75,
+      "rent": 295,
+      "type": "default",
+      "size": 16,
+      "image": {
+        "id": 2689900,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/24ea0579-fce9-4891-a435-61db6bf09159",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/24ea0579-fce9-4891-a435-61db6bf09159-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/24ea0579-fce9-4891-a435-61db6bf09159-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/24ea0579-fce9-4891-a435-61db6bf09159-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 2016,
+            "height": 1512,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/24ea0579-fce9-4891-a435-61db6bf09159-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/24ea0579-fce9-4891-a435-61db6bf09159-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/24ea0579-fce9-4891-a435-61db6bf09159-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/24ea0579-fce9-4891-a435-61db6bf09159-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/24ea0579-fce9-4891-a435-61db6bf09159-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Gießen",
+      "furnished": "false",
+      "description": "Die Wohnung liegt im 2. Obergeschoss eines Mehrfamilienhauses. Unsere WG hat 3 Zimmer, eine Küche, ein Bad, eine separate Toilette und einen großen Flur mit kleiner Vorratsniche. Das Zimmer ist 16 m² groß mit Dachschräge (d.h. keiner trampelt einem auf dem Kopf herum) und einem Fenster nach Südosten.",
+      "creationDate": "2017-04-02",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "membersWomanCount": 1,
+      "imageCount": 16,
+      "city": {
+        "id": 3630,
+        "country": "Deutschland",
+        "state": "Hessen",
+        "name": "Gießen",
+        "lat": 50.5841,
+        "lng": 8.6784,
+        "northLatitude": 50.6352,
+        "eastLongitude": 8.7642,
+        "southLatitude": 50.5263,
+        "westLongitude": 8.55575,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 267450,
+        "name": "Miriam Walzer",
+        "job": "Studentin",
+        "gender": "female",
+        "image": {
+          "id": 2689904,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5da70456-37d4-4386-8ac9-691d6a3c335e",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5da70456-37d4-4386-8ac9-691d6a3c335e-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5da70456-37d4-4386-8ac9-691d6a3c335e-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 480,
+              "height": 640,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5da70456-37d4-4386-8ac9-691d6a3c335e-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5da70456-37d4-4386-8ac9-691d6a3c335e-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5da70456-37d4-4386-8ac9-691d6a3c335e-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/5da70456-37d4-4386-8ac9-691d6a3c335e-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2328124,
+      "title": "WG nah an der UNI! TOP Lage TOP Leute!",
+      "addressHidden": false,
+      "lat": 54.3354,
+      "lng": 10.1343,
+      "from": "2017-05-01",
+      "flatSize": 75,
+      "rent": 342,
+      "type": "default",
+      "size": 23,
+      "image": {
+        "id": 2689613,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/efbacc2c-909c-4812-91dd-b1a301e97e08",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/efbacc2c-909c-4812-91dd-b1a301e97e08-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/efbacc2c-909c-4812-91dd-b1a301e97e08-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 759,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/efbacc2c-909c-4812-91dd-b1a301e97e08-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 1836,
+            "height": 3264,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/efbacc2c-909c-4812-91dd-b1a301e97e08-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/efbacc2c-909c-4812-91dd-b1a301e97e08-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/efbacc2c-909c-4812-91dd-b1a301e97e08-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/efbacc2c-909c-4812-91dd-b1a301e97e08-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 253,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/efbacc2c-909c-4812-91dd-b1a301e97e08-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Kiel",
+      "furnished": "false",
+      "description": "Es ist ein schönes großes Zimmer mit viel Platz und großen Fenstern. Du Wohnung hat dicke Wände, die es erlauben auch Mal die Musik laut aufzudrehen. Deine künftigen Mitbewohner sind vernünftige entspannte Kollegen, die aber auch wissen wie man richtig feiert. Die Einkaufsmöglichkeiten hier auf der Ecke sind wirklich aller erste Sahne. Alles ist in kürzester Zeit erreichbar.",
+      "creationDate": "2017-04-02",
+      "wantedAmountMale": 1,
+      "wantedAmountFemale": 1,
+      "membersManCount": 2,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 30,
+      "imageCount": 4,
+      "city": {
+        "id": 3773,
+        "country": "Deutschland",
+        "state": "Schleswig-Holstein",
+        "name": "Kiel",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 54.2919,
+        "lng": 10.1853,
+        "northLatitude": 54.3102,
+        "eastLongitude": 10.2097,
+        "southLatitude": 54.2694,
+        "westLongitude": 10.1596,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 267325,
+        "name": "Marcel Rogge",
+        "aboutMe": "Bei Interesse schreibt mir gerne per WhatsApp\n\nIch schreibe auch nach Feierabend meistens direkt zurück\n\n015159996357",
+        "gender": "male",
+        "image": {
+          "id": 2689598,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/cbf6b632-0c3c-416c-896e-0699838edd69",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/cbf6b632-0c3c-416c-896e-0699838edd69-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/cbf6b632-0c3c-416c-896e-0699838edd69-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 1836,
+              "height": 3264,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/cbf6b632-0c3c-416c-896e-0699838edd69-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/cbf6b632-0c3c-416c-896e-0699838edd69-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/cbf6b632-0c3c-416c-896e-0699838edd69-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/cbf6b632-0c3c-416c-896e-0699838edd69-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2328123,
+      "title": "BOCKENHEIM KUHWALD NEUE 2ER-WG",
+      "addressHidden": false,
+      "lat": 50.1135,
+      "lng": 8.62897,
+      "borough": "Innenstadt",
+      "from": "2017-04-15",
+      "flatSize": 35,
+      "rent": 350,
+      "type": "default",
+      "size": 17,
+      "image": {
+        "id": 2689591,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/97b95170-6699-485d-8ed4-49386c958b15",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/97b95170-6699-485d-8ed4-49386c958b15-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/97b95170-6699-485d-8ed4-49386c958b15-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1013,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/97b95170-6699-485d-8ed4-49386c958b15-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 2448,
+            "height": 3264,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/97b95170-6699-485d-8ed4-49386c958b15-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/97b95170-6699-485d-8ed4-49386c958b15-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/97b95170-6699-485d-8ed4-49386c958b15-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/97b95170-6699-485d-8ed4-49386c958b15-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 338,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/97b95170-6699-485d-8ed4-49386c958b15-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Frankfurt am Main",
+      "furnished": "false",
+      "description": "zu vermieten ist eine kleine 2zi-kellerwohnung, gerne an studenten, auszubildende oder wochenendheimfahrer. die deckenhöhen ist begrenzt und insofern nicht für 2m-riesen geeignet. die gesamtmiete beträgt 550€ + 100€ nebenkosten. eines der beiden zimmer wird gerade mit neuer heizung und wand ausgestattet und ist whrscheinlich anfang mai fertig. da es das kleinere ist, stellen wir uns als vermieter eine miete von 250€+50€ vor. die aufteilung obliegt natürlich der wg und dem hauptmieter.\nim haus bestehen noch zwei weitere wg. optional ist noch ein pkw-stellplatz zusätzlich anmietbar.\ndie wohnung verfügt über eine neue kleine küche mit frankfurter bar und seperatem wc über den gang, das nur der keller-wg zu verfügung steht. die zimmer sind komplett über den gang getrennt, so dass jeder bei bedarf seine ruhe haben kann.\nder garten ist dirket über den flur zugänglich. die gartengestaltung liegt in den händen aller hausbewohner.\nan geschäftstüchtige bewohner könnte das zweite zimmer zu b&b zwecken genutzt werden, aufgrund der fußläufigen entfernung zur messe (zu messezeiten gibt es in ganz frankfurt meist keine übernachtungsmöglichkeiten) und pkw-stellplatzmöglichkeit sicher nicht uninteressant",
+      "creationDate": "2017-04-02",
+      "imageCount": 1,
+      "city": {
+        "id": 3662,
+        "country": "Deutschland",
+        "state": "Hessen",
+        "name": "Frankfurt am Main",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 50.0379,
+        "lng": 8.56215,
+        "northLatitude": 50.0532,
+        "eastLongitude": 8.60166,
+        "southLatitude": 49.9956,
+        "westLongitude": 8.4906,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 121598,
+        "name": "rolf meier",
+        "aboutMe": "",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2320873,
+      "title": "WG - Zimmer in Sendling-Westpark - 5 Gehminuten von U-Bahn Station \"Westpark\" für 2-3 Monate zu vermieten",
+      "addressHidden": true,
+      "from": "2017-04-01",
+      "to": "2017-05-31",
+      "flatSize": 75,
+      "rent": 650,
+      "type": "default",
+      "size": 18,
+      "image": {
+        "id": 2682080,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2a06e500-9757-4c09-9fe8-5f0ed486a5b6",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2a06e500-9757-4c09-9fe8-5f0ed486a5b6-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2a06e500-9757-4c09-9fe8-5f0ed486a5b6-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1600,
+            "height": 1200,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2a06e500-9757-4c09-9fe8-5f0ed486a5b6-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 1600,
+            "height": 1200,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2a06e500-9757-4c09-9fe8-5f0ed486a5b6-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2a06e500-9757-4c09-9fe8-5f0ed486a5b6-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2a06e500-9757-4c09-9fe8-5f0ed486a5b6-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2a06e500-9757-4c09-9fe8-5f0ed486a5b6-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/2a06e500-9757-4c09-9fe8-5f0ed486a5b6-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "München",
+      "furnished": "false",
+      "description": "",
+      "creationDate": "2017-03-31",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "membersWomanCount": 3,
+      "imageCount": 5,
+      "city": {
+        "id": 3617,
+        "country": "Deutschland",
+        "state": "Bayern",
+        "name": "München",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 48.1351,
+        "lng": 11.582,
+        "northLatitude": 48.2482,
+        "eastLongitude": 11.7229,
+        "southLatitude": 48.0616,
+        "westLongitude": 11.3608,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 267136,
+        "name": "Alessia Fruet",
+        "gender": "female",
+        "birthday": "1996-04-03",
+        "image": {
+          "id": 2682077,
+          "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/1172cd5b-92e2-4736-9e6f-9e0d7621fa52",
+          "urls": {
+            "S": {
+              "width": 150,
+              "height": 150,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/1172cd5b-92e2-4736-9e6f-9e0d7621fa52-150x150.jpg"
+            },
+            "XL": {
+              "width": 400,
+              "height": 400,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/1172cd5b-92e2-4736-9e6f-9e0d7621fa52-400x400.jpg"
+            },
+            "ORIGINAL": {
+              "width": 200,
+              "height": 283,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/1172cd5b-92e2-4736-9e6f-9e0d7621fa52-original.jpg"
+            },
+            "XS": {
+              "width": 40,
+              "height": 40,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/1172cd5b-92e2-4736-9e6f-9e0d7621fa52-40x40.jpg"
+            },
+            "L": {
+              "width": 400,
+              "height": 300,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/1172cd5b-92e2-4736-9e6f-9e0d7621fa52-400x300.jpg"
+            },
+            "M": {
+              "width": 200,
+              "height": 200,
+              "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/profile/1172cd5b-92e2-4736-9e6f-9e0d7621fa52-200x200.jpg"
+            }
+          }
+        }
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2320860,
+      "title": "Suche netten Nachmieter für 2er-WG-Zimmer in der Bochumer Innenstadt",
+      "addressHidden": false,
+      "lat": 51.4793,
+      "lng": 7.21369,
+      "from": "2017-04-01",
+      "flatSize": 75,
+      "rent": 289,
+      "type": "default",
+      "size": 14,
+      "image": {
+        "id": 2681990,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/045cf091-1066-43d5-904f-e95eb725c7c6",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/045cf091-1066-43d5-904f-e95eb725c7c6-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/045cf091-1066-43d5-904f-e95eb725c7c6-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1632,
+            "height": 916,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/045cf091-1066-43d5-904f-e95eb725c7c6-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 1632,
+            "height": 916,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/045cf091-1066-43d5-904f-e95eb725c7c6-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/045cf091-1066-43d5-904f-e95eb725c7c6-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/045cf091-1066-43d5-904f-e95eb725c7c6-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/045cf091-1066-43d5-904f-e95eb725c7c6-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 337,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/045cf091-1066-43d5-904f-e95eb725c7c6-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Bochum",
+      "furnished": "true",
+      "description": "Fenster Richtung Hauptstraße sind schallgedämmt. Geschlossen ist der Verkehr nicht zu hören.\nZimmer ist vollmöbliert mit großem Bett, Regalen, Kommode, Beistelltisch und Schreibtisch wie auf den Bildern zu sehen.\nMöbel sind gepflegt und gut erhalten.\nAbschlag ist zwingend erforderlich, dafür spart ihr euch den Stress eigene Möbel besorgen zu müssen.",
+      "creationDate": "2017-03-31",
+      "wantedAmountEven": 1,
+      "membersManCount": 1,
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 40,
+      "imageCount": 8,
+      "city": {
+        "id": 3872,
+        "country": "Deutschland",
+        "state": "Nordrhein-Westfalen",
+        "name": "Bochum",
+        "seoRelevant": true,
+        "lat": 51.4818,
+        "lng": 7.21624,
+        "northLatitude": 51.5314,
+        "eastLongitude": 7.34937,
+        "southLatitude": 51.4104,
+        "westLongitude": 7.10174,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 267096,
+        "name": "Alec Hallmann",
+        "aboutMe": "Suche ruhigen, offenen, neuen Mitbewohner für meine 2-Personen-WG in der Bochumer Innenstadt mit einer Top-Lage. Ich bin Student an der Ruhr-Universität im Bereich Japanologie und bin betrachte mich als einen sehr ruhigen und offenen Menschen.\nHäufig treffe ich mich mit Freunden zum Zocken oder Filme gucken hier in der WG, wozu auch andere immer herzlich eingeladen sind.",
+        "job": "Student",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2320858,
+      "title": "WG-Zimmer, hell, zentral, mit Balkon in toller Lage",
+      "addressHidden": true,
+      "borough": "Altona",
+      "from": "2017-04-15",
+      "flatSize": 65,
+      "rent": 580,
+      "type": "default",
+      "size": 34,
+      "image": {
+        "id": 2685641,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/cbb54751-ce71-4c53-9444-2fbf861841a0",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/cbb54751-ce71-4c53-9444-2fbf861841a0-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/cbb54751-ce71-4c53-9444-2fbf861841a0-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1800,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/cbb54751-ce71-4c53-9444-2fbf861841a0-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3024,
+            "height": 3024,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/cbb54751-ce71-4c53-9444-2fbf861841a0-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/cbb54751-ce71-4c53-9444-2fbf861841a0-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/cbb54751-ce71-4c53-9444-2fbf861841a0-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/cbb54751-ce71-4c53-9444-2fbf861841a0-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/cbb54751-ce71-4c53-9444-2fbf861841a0-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Hamburg",
+      "furnished": "true",
+      "description": "Es sind 2 möblierte Zimmer für eine Person, ein Wohnzimmer mit großem Balkon, ein Schlafzimmer, beide zum Garten hin.\n\nDie Wohnung ist freundlich und hell, möbliert, im 2. Stockwerk. Es gibt eine Waschmaschine, auch eine Badewanne, der Garten kann mitbenutzt werden.",
+      "creationDate": "2017-03-31",
+      "membersWomanCount": 1,
+      "imageCount": 1,
+      "city": {
+        "id": 3610,
+        "country": "Deutschland",
+        "state": "Hamburg",
+        "name": "Hamburg",
+        "seoRelevant": true,
+        "campaign": true,
+        "lat": 53.5511,
+        "lng": 9.99368,
+        "northLatitude": 53.7171,
+        "eastLongitude": 10.1235,
+        "southLatitude": 53.4,
+        "westLongitude": 9.73215,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 267090,
+        "name": "Sibylle",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2317350,
+      "title": "Helles, uninahes 18 qm Zimmer sucht dich!",
+      "addressHidden": true,
+      "from": "2017-05-01",
+      "flatSize": 57,
+      "rent": 319,
+      "type": "default",
+      "size": 18,
+      "image": {
+        "id": 2678387,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1a5413a4-3971-4a80-94af-fa796e721aac",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1a5413a4-3971-4a80-94af-fa796e721aac-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1a5413a4-3971-4a80-94af-fa796e721aac-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1013,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1a5413a4-3971-4a80-94af-fa796e721aac-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3024,
+            "height": 4032,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1a5413a4-3971-4a80-94af-fa796e721aac-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1a5413a4-3971-4a80-94af-fa796e721aac-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1a5413a4-3971-4a80-94af-fa796e721aac-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1a5413a4-3971-4a80-94af-fa796e721aac-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 338,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/1a5413a4-3971-4a80-94af-fa796e721aac-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Dresden",
+      "furnished": "partly",
+      "creationDate": "2017-03-30",
+      "membersWomanCount": 1,
+      "imageCount": 7,
+      "city": {
+        "id": 3857,
+        "country": "Deutschland",
+        "state": "Sachsen",
+        "name": "Dresden",
+        "seoRelevant": true,
+        "lat": 51.0504,
+        "lng": 13.7373,
+        "northLatitude": 51.1787,
+        "eastLongitude": 13.9658,
+        "southLatitude": 50.9749,
+        "westLongitude": 13.5794,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 106011,
+        "name": "Katja",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2317308,
+      "title": "tolle WG Ideal für Praktikanten von PORSCHE, BOSCH, TRUMPF",
+      "addressHidden": true,
+      "from": "2017-06-01",
+      "flatSize": 100,
+      "rent": 545,
+      "type": "default",
+      "size": 21,
+      "status": "active",
+      "cityName": "Korntal-Münchingen",
+      "furnished": "partly",
+      "description": "WG-Details\nDie WG\n\n    21m² Zimmer in 4er WG\n    Wohnungsgröße: 100m²\n    4er WG (0 Frauen und 0 Männer)\n    Bewohneralter: 18 bis 40 Jahre\n    Rauchen nicht erwünscht\n    Studenten-WG, Berufstätigen-WG, gemischte WG\n    Sprache/n: Deutsch Englisch\n\n Zimmer\n\n*Ideal für Praktikanten von PORSCHE, BOSCH, TRUMPF, Daimler oder Thales aufgrund der guten Lage*\n\n\nIch vermiete ein schönes Wg Zimmer in einer 4er Wg.\nDie Wohnung befindet sich im Erdgeschoss eines ruhigen Mehrfamilienhauses.\nIn der Wohnung gibt es ein Großzügiges Bad mit Dusche,Badewanne, sowie ein separates WC. Die Wohnung hat 50.000M/Bit Internet.\nEs gibt eine Waschmaschine und einen Fahrradkeller.\nAlle Mieter dürfen den großen Garten jederzeit Nutzen.\n\n-> Die Wohnung wird gerade frisch renoviert, sodass jedes Zimmer einen neuen Boden und Tapeten bekommt. Es stehen vier neu renovierte Zimmer zur Verfügung sodass auch eine WG Neugründung möglich ist.\n\nBus, S-Bahn, Autobahn, Einkaufsläden in direkter Nähe.\n \nLage\n\nKallenbergstraße 74\n70825 Korntal-Münchngen\n\n*Ideal für Praktikanten von PORSCHE, BOSCH, TRUMPF, Daimler oder Thales aufgrund der guten Lage*\n \nWG-Leben\n\nWG Neugründung",
+      "creationDate": "2017-03-30",
+      "wantedAgeFrom": 18,
+      "wantedAgeTo": 50,
+      "imageCount": 0,
+      "city": {
+        "id": 8147,
+        "country": "Deutschland",
+        "state": "Baden-Württemberg",
+        "name": "Korntal-Münchingen",
+        "lat": 48.8464,
+        "lng": 9.10721,
+        "northLatitude": 48.8691,
+        "eastLongitude": 9.14316,
+        "southLatitude": 48.8235,
+        "westLongitude": 9.04807,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 266889,
+        "name": "WG Kallenberg",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2317305,
+      "title": "Zimmer in 4er WG in Regensburg/West",
+      "addressHidden": true,
+      "from": "2017-04-22",
+      "flatSize": 90,
+      "rent": 300,
+      "type": "default",
+      "size": 11,
+      "status": "active",
+      "cityName": "Regensburg",
+      "furnished": "false",
+      "description": "Diese Wohnung wird neu vermietet, momentan wohnt noch keiner darin. Sie wird grad renoviert, drum gibts noch keine Fotos.\nSie verfügt über 4 Zimmer (2 mal 10 qm, 1 mal 14 qm (360 Euro), 1 mal 21 qm (430 Euro).\nDie Wohnung hat einen sehr schönen Grundriss, 2 Balkone und liegt gegenüber eines Parks in ruhiger Wohnlage.\nEinbauküche und gemeinschaftliches Esszimmer.\nBusverbindung direkt vor der Haustür.",
+      "creationDate": "2017-03-30",
+      "imageCount": 0,
+      "city": {
+        "id": 3862,
+        "country": "Deutschland",
+        "state": "Bayern",
+        "name": "Regensburg",
+        "seoRelevant": true,
+        "lat": 49.0134,
+        "lng": 12.1016,
+        "northLatitude": 49.0764,
+        "eastLongitude": 12.1916,
+        "southLatitude": 48.9667,
+        "westLongitude": 12.0291,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 266867,
+        "name": "Marion",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    },
+    {
+      "id": 2313497,
+      "title": "19m² Zimmer in 5 Zimmer WG-Haus / Terrasse / Küche / Wohnzimmer / WLAN",
+      "addressHidden": false,
+      "lat": 52.5146,
+      "lng": 7.33504,
+      "from": "2017-04-15",
+      "flatSize": 108,
+      "rent": 320,
+      "type": "default",
+      "size": 19,
+      "image": {
+        "id": 2674007,
+        "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17d3312f-9e5d-4504-8eef-22fe1acfc766",
+        "urls": {
+          "S": {
+            "width": 220,
+            "height": 220,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17d3312f-9e5d-4504-8eef-22fe1acfc766-220x220.jpg"
+          },
+          "XL": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17d3312f-9e5d-4504-8eef-22fe1acfc766-1800x1350.jpg"
+          },
+          "SCALE_L": {
+            "width": 1800,
+            "height": 1350,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17d3312f-9e5d-4504-8eef-22fe1acfc766-SCALE_L.jpg"
+          },
+          "ORIGINAL": {
+            "width": 3264,
+            "height": 2448,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17d3312f-9e5d-4504-8eef-22fe1acfc766-original.jpg"
+          },
+          "XS": {
+            "width": 50,
+            "height": 50,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17d3312f-9e5d-4504-8eef-22fe1acfc766-50x50.jpg"
+          },
+          "L": {
+            "width": 1200,
+            "height": 600,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17d3312f-9e5d-4504-8eef-22fe1acfc766-1200x600.jpg"
+          },
+          "M": {
+            "width": 640,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17d3312f-9e5d-4504-8eef-22fe1acfc766-640x450.jpg"
+          },
+          "SCALE_S": {
+            "width": 600,
+            "height": 450,
+            "url": "https://cdn.wg-suche.de/cdn.wg-suche.de/community/17d3312f-9e5d-4504-8eef-22fe1acfc766-SCALE_S.jpg"
+          }
+        }
+      },
+      "status": "active",
+      "cityName": "Lingen (Ems)",
+      "furnished": "false",
+      "creationDate": "2017-03-29",
+      "wantedAmountFemale": 1,
+      "membersManCount": 3,
+      "membersWomanCount": 1,
+      "imageCount": 6,
+      "city": {
+        "id": 3976,
+        "country": "Deutschland",
+        "state": "Niedersachsen",
+        "name": "Lingen (Ems)",
+        "lat": 52.5231,
+        "lng": 7.32328,
+        "northLatitude": 52.6022,
+        "eastLongitude": 7.45386,
+        "southLatitude": 52.4202,
+        "westLongitude": 7.19333,
+        "boroughs": [],
+        "vicinity": [],
+        "socialChannels": [],
+        "campaigns": [],
+        "metropols": []
+      },
+      "profile": {
+        "id": 266669,
+        "name": "Imke Feldt",
+        "gender": "undefined"
+      },
+      "memo": false,
+      "owner": false,
+      "inclusionary": true
+    }
+  ],
+  "refreshDate": 1492857552651,
+  "pageSize": 50,
+  "page": 1,
+  "size": 81
+}
