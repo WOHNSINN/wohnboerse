@@ -1,14 +1,25 @@
 .fuzzy-search {
   position: relative;
+  float: left;
+}
+
+form{
+  float: right;
+  padding: 20px 10px;
+} 
+
+label {
+  margin-right: 10px;
 }
 
 .dropdown-arrow {
-  position: absolute;
-  right: 0px;
-  top: 0px;
+  float: right;
   display: inline-block;
   padding: 5px 10px;
   cursor: pointer;
+  position: relative;
+  top: 16px;
+  right: 36px;
   vertical-align: middle;
 }
 
@@ -25,11 +36,13 @@
 
 .options {
   position: absolute;
-  top: 100%;
+  top: 47px;
+  left: 62px;
   background: #ffffff;
   border: 1px solid #888888;
   border-top: 0px;
-  width: 100%;
+  width: 175px;
+  z-index: 2;
 }
 
 .option {

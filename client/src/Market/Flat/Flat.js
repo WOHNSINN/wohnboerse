@@ -19,18 +19,21 @@ class Flat extends Component {
   }
 
   render() {
+    console.log(this.props)
     return (
       <div className="row" onClick={this.toggleDetail.bind(this)}>
         <div className="col-xs-3">
           {this.props.flat.image && this.props.flat.image.urls.S.url &&
             <img src={this.props.flat.image.urls.S.url} alt={this.props.flat.title}/>
           }
+          {!this.props.flat.image || !this.props.flat.image.urls.S.url &&
+            <img src="/images/placeholder.png" alt="no picture"/> 
+          }
         </div>
         <div className="col-xs-9">
           <h2>{this.props.flat.title} | {this.props.flat.rent}{CURRENCY}</h2>
           <div>{this.props.flat.cityName}</div>
           <div>{this.props.flat.from}</div>
-          <Profile profile={this.props.flat.profile}/>
           {this.state.showDetail &&
             <div>
               <div>{this.props.flat.description}</div>
