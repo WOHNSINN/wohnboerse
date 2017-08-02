@@ -13,7 +13,7 @@ $flats = $db->getFlats();
 foreach ($flats as $index => $flat) {
     foreach($flat as $key => $value) {
         if ($key != "image") {
-            $flats[$index][$key] = utf8_encode($value);
+            $flats[$index][$key] = $value;
         }
     }
 }
