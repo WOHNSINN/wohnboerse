@@ -5,7 +5,6 @@ include($basePath . "cronjobs/db.php");
 
 $response = file_get_contents(Credentials::$apiEndpoint);
 $data = json_decode($response);
-print_r($data);
 $db = new DB();
 
 if ($data) {
