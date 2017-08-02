@@ -32,6 +32,7 @@ foreach ($data->result as $flat) {
     $flatData["wantedAgeTo"]    = isset($flat->wantedAgeTo) ? $flat->wantedAgeTo : null;
     $flatData["wantedAmountEven"]    = isset($flat->wantedAmountEven) ? $flat->wantedAmountEven : null;
     $flatData["imageUrl"] = isset($flat->image->urls->ORIGINAL->url) ? $flat->image->urls->ORIGINAL->url : null;
+    $flatData["profileName"] = isset($flat->profile->name) ? $flat->profile->name : null;
     if ($db->addEntry($flatData)) {}
 }
 

@@ -8,17 +8,17 @@ class DB {
 
     public function __construct() {
         $this->db = new mysqli(
-            Credentials::$dbHost, 
-            Credentials::$dbUser, 
-            Credentials::$dbPass, 
-            Credentials::$dbName, 
+            Credentials::$dbHost,
+            Credentials::$dbUser,
+            Credentials::$dbPass,
+            Credentials::$dbName,
             Credentials::$dbPort);
-   
+
         if ($this->db->connect_errno) {
             echo "Failed to connect to MySQL: (" . $db->connect_errno . ") " . $db->connect_error;
         }
     }
-    
+
 
     public function emptyTable() {
         $stmt = $this->db->prepare("DELETE FROM flats;");
@@ -26,7 +26,7 @@ class DB {
     }
 
     public function addEntry($data) {
-        if (!($stmt = $this->db->prepare("INSERT INTO flats 
+        if (!($stmt = $this->db->prepare("INSERT INTO flats
         (
             `country`,
             `latitude`,
@@ -46,12 +46,13 @@ class DB {
             `wanted_age_from`,
             `wanted_age_to`,
             `wanted_amount_even`,
-            `image_url`
-        ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)"))) {
+            `image_url`,
+            `profile_name`
+        ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)"))) {
             echo "Prepare failed: (" . $db->errno . ") " . $db->error;
         }
 
-        if (!$stmt->bind_param("sddssssissiiiisiiis", 
+        if (!$stmt->bind_param("sddssssissiiiisiiiss",
             $data["country"],
             $data["latitude"],
             $data["longitude"],
@@ -70,7 +71,8 @@ class DB {
             $data["wantedAgeFrom"],
             $data["wantedAgeTo"],
             $data["wantedAmountEven"],
-            $data["imageUrl"]
+            $data["imageUrl"],
+            $data["profileName"]
             )) {
             echo "Binding parameters failed: (" . $stmt->errno . ") " . $stmt->error;
         }
@@ -111,6 +113,7 @@ class DB {
                 $namedFlat["image"]["urls"] = array();
                 $namedFlat["image"]["urls"]["S"] = array();
                 $namedFlat["image"]["urls"]["S"]["url"] = $flat[19];
+                $namedFlat["profileName"] = $flat[20];
                 $flats[] = $namedFlat;
             }
             $result->close();

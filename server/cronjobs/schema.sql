@@ -46,7 +46,8 @@ CREATE TABLE `flats` (
   `wanted_age_from` int(3) UNSIGNED DEFAULT NULL,
   `wanted_age_to` int(10) UNSIGNED DEFAULT NULL,
   `wanted_amount_even` int(2) UNSIGNED DEFAULT NULL,
-  `image_url` varchar(255) DEFAULT NULL
+  `image_url` varchar(512) DEFAULT NULL,
+  `profile_name` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --

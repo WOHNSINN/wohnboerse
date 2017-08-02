@@ -7,6 +7,5 @@
 1. in der credentials.php die richtigen Werte eintragen
 1. in der bootstrap.php den basePath anpassen
 1. in die crontab **php /cronjobs/load_flats.php** hinzufügen zum täglichen aktualisieren
-
 1. node.js mit npm installieren
-1. in den Ordner Frontend gehen und **npm build** ausführen
+1. in den Ordner client gehen und **npm run build .** ausführen

@@ -10,7 +10,7 @@ img {
 }
 
 .uk-article {
-  width: 800px;
+  width: 70%;
   margin: auto;
 }
 
@@ -46,4 +46,39 @@ div[data-reactroot] > span > span:nth-of-type(2) {
 .col-xs-9 > div,
 .col-xs-9 > span {
   color: #666;
+}
+
+div.wg-boerse-description {
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+.wg-boerse-fee {
+    /* background-color: black;
+    color: white; */
+    font-weight: bold;
+}
+.wg-boerse-right-col {
+    background-color: #f7a823;
+    color: white;
+}
+.wg-boerse-flat hr {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+}
+.wg-boerse-item {
+    margin-bottom: 0.3em;
+}
+
+.btn-primary {
+    background-color: #f7a823;
+    font-weight: bold;
+    border: 0 none;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background-color: #f7a823 !important;
+    color: #606060 !important;
+}
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none !important;
 }
