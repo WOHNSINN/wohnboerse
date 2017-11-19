@@ -4,21 +4,28 @@ import FuzzySearchDropDown from './FuzzySearchDropDown';
 class FuzzySearchDropDownFilter extends Component {
 
   unique(list) {
-    return list.filter((entity, index, self) => self.indexOf(entity) === index);
+    var list_unique = list.filter((entity, index, self) => self.indexOf(entity) === index);
+    return list_unique.filter((value) => value != null);
   }
 
   getOptions() {
     var propertyName = this.props.column.property;
     return this.unique(
       this.props.data.result.map(function (row) {
-        return row[propertyName];
+          if (propertyName in row) {
+             return row[propertyName];
+          } else {
+              return null;
+          }
       })
     );
   }
 
   render() {
+    var options = this.getOptions();
+    console.log("options", options);
     return(
-      <FuzzySearchDropDown options={this.getOptions()} onChange={this.props.onChange}/>
+      <FuzzySearchDropDown options={options} onChange={this.props.onChange}/>
     );
   }
 }

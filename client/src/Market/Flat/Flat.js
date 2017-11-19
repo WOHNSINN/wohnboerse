@@ -19,7 +19,6 @@ class Flat extends Component {
   }
 
   render() {
-    console.log(this.props)
     const url = "https://www.wg-suche.de/#/angebot/" + this.props.flat.apiId
     const from = new Date(this.props.flat.searchFrom);
     const fromStr = from.getDate() + "." + from.getMonth() + "." + from.getFullYear();
@@ -37,12 +36,13 @@ class Flat extends Component {
             <img src={this.props.flat.image.urls.S.url} alt={this.props.flat.title}/>
           }
           {!this.props.flat.image || !this.props.flat.image.urls.S.url &&
-            <img src="/images/placeholder.png" alt="no picture" className="center-block"/>
+            // TODO: set placeholder path
+            <img src="/wohnsinn/client/public/images/placeholder.png" alt="no picture" className="center-block"/>
           }
         </div>
         <div className="col-xs-6">
           <h3>{this.props.flat.title} </h3>
-          <h4>in {this.props.flat.cityName}</h4>
+          {this.props.flat.cityName && <h4>in {this.props.flat.cityName}</h4> }
           <hr />
 
           <div className="wg-boerse-item">Zimmergröße: {this.props.flat.size}qm</div>

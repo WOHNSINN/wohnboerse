@@ -5,7 +5,7 @@ class FuzzySearch extends Component {
 
   constructor(props) {
     super(props);
-
+    console.log('FuzzySearch', props);
     this.state = {
       value: '',
     };
@@ -15,11 +15,13 @@ class FuzzySearch extends Component {
     this.setState({
       value,
     });
-
     this.props.onChange(this.isValueFiltered.bind(this, value));
   }
 
   isValueFiltered(needle, haystack) {
+    if (haystack === undefined || haystack === null) {
+        return false;
+    }
     var result = true;
     var pos = 0;
     for (var i = 0; i < needle.length; i++) {
@@ -31,11 +33,12 @@ class FuzzySearch extends Component {
 
       pos++; // Should be searched _after_ the found character
     }
-
+    //  console.log("isValueFiltered", needle, haystack, result);
     return result;
   }
 
   checkChar(needleChar, haystack, pos) {
+    console.log(needleChar, haystack, pos);
     var lowerPos = haystack.indexOf(needleChar, pos);
     var higherPos = haystack.indexOf(needleChar.toUpperCase(), pos);
 

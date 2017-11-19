@@ -7,7 +7,6 @@ class List extends Component {
     if (this.state && this.state.filters) {
       return this.props.list.result.filter((flat) => {
         var filtered = true;
-
         for (var index in this.state.filters) {
           if (this.state.filters.hasOwnProperty(index)) {
             filtered = this.state.filters[index](flat[index]);

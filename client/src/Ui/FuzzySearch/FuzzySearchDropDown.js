@@ -10,7 +10,24 @@ class FuzzySearchDropDown extends Component {
 
     this.state = {
       show: false,
+
     };
+  }
+
+  onChange(filters) {
+    this.setState({
+        filters: filters,
+        show: this.state.show,
+    });
+    this.props.onChange(filters);
+  }
+
+  filteredOptions() {
+    if (this.state && this.state.filters) {
+        return this.props.options.filter(this.state.filters)
+    } else {
+        return this.props.options;
+    }
   }
 
   selectOption(option) {
@@ -24,7 +41,7 @@ class FuzzySearchDropDown extends Component {
 
   setShow(show) {
     this.setState({
-      show,
+      show: show,
     });
 
     if (show === true) {
@@ -37,16 +54,16 @@ class FuzzySearchDropDown extends Component {
     var show   = this.setShow.bind(this, true);
     // OnBlur needs a timeout, because its gets triggered before the click on the option itself.
     var hide   = () => setTimeout(this.setShow.bind(this, false), BLUR_TIMEOUT);
-
+    var onChange = this.onChange.bind(this)
     return (
       <div className="fuzzy-search dropdown">
         <div className="dropdown-arrow" onClick={toggle}>
           <span className="dropdownicon"></span>
         </div>
-        <FuzzySearch onChange={this.props.onChange} onFocus={show} onBlur={hide} ref={this.setFuzzySearch.bind(this)} />
+        <FuzzySearch onChange={onChange} onFocus={show} onBlur={hide} options={this.props.options} ref={this.setFuzzySearch.bind(this)} />
         {this.state.show === true &&
           <div className="options">
-            {this.props.options.map((option, index) =>
+            {this.filteredOptions().map((option, index) =>
               <div onClick={this.selectOption.bind(this, option)} className="option" key={index}>{option}</div>
             )}
           </div>
