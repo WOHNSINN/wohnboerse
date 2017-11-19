@@ -10,7 +10,6 @@ class FuzzySearchDropDown extends Component {
 
     this.state = {
       show: false,
-
     };
   }
 

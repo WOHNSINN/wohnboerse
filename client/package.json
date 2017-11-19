@@ -5,7 +5,8 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "serve": "^6.4.1"
   },
   "devDependencies": {
     "react-scripts": "0.9.5"
@@ -16,5 +17,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://localhost"
+  "proxy": "http://localhost/",
+  "homepage": "http://localhost/wohnsinn/client/build/"
 }

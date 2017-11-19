@@ -34,7 +34,7 @@ class Index extends Component {
     return (
       <div>
         {this.state.loading === true &&
-          <span>Its currently loading</span>
+          <span></span>
         }
         {this.state.loading === false && this.state.error &&
           <span>Something bad happened</span>

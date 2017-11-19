@@ -5,7 +5,6 @@ include_once($basePath . "cronjobs/db.php");
 header("Content-Type: application/json");
 header("Access-Control-Allow-Origin: *");
 
-
 $db = new DB();
 $response = array();
 $flats = $db->getFlats();

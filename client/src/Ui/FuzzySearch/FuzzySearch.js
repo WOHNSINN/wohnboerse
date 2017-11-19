@@ -5,7 +5,6 @@ class FuzzySearch extends Component {
 
   constructor(props) {
     super(props);
-    console.log('FuzzySearch', props);
     this.state = {
       value: '',
     };
@@ -33,12 +32,10 @@ class FuzzySearch extends Component {
 
       pos++; // Should be searched _after_ the found character
     }
-    //  console.log("isValueFiltered", needle, haystack, result);
     return result;
   }
 
   checkChar(needleChar, haystack, pos) {
-    console.log(needleChar, haystack, pos);
     var lowerPos = haystack.indexOf(needleChar, pos);
     var higherPos = haystack.indexOf(needleChar.toUpperCase(), pos);
 
@@ -67,13 +64,13 @@ class FuzzySearch extends Component {
     return (
       <form>
         <div>
-          <label htmlFor="">Suche</label>
+          <label htmlFor="">Wo suchst Du?</label>
           <InputItem
             onFocus={this.props.onFocus}
             onBlur={this.props.onBlur}
             value={this.state.value}
             onChange={this.setSearchInput.bind(this)}
-            placeholder="Suche"
+            placeholder="Ort auswählen"
             ref={this.setInputItem.bind(this)}
           />
         </div>

@@ -16,8 +16,8 @@ foreach ($data->result as $flat) {
     $flatData["country"]    = $flat->city->country;
     $flatData["latitude"]   = isset($flat->lat) ? $flat->lat : null;
     $flatData["longitude"]  = isset($flat->lng) ? $flat->lng : null;
-    $flatData["city"]   = $flat->city->name;
-    $flatData["state"]  = $flat->city->state;
+    $flatData["city"]   = isset($flat->city->name) ? $flat->city->name : null;
+    $flatData["state"]  = isset($flat->city->state) ? $flat->city->state : null;
     $flatData["searchFrom"]     = $flat->from;
     $flatData["searchTo"]   = isset($flat->to) ? $flat->to : null ;
     $flatData["flatsize"]   = $flat->flatSize;

@@ -1,3 +1,2 @@
 <?php
-$basePath = $_SERVER["DOCUMENT_ROOT"] . "/wohnsinn/server/";
-
+$basePath = "/home/leon/work/wohnsinn/wg-suche/server/";

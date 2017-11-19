@@ -6,5 +6,5 @@ import './index.css';
 
 ReactDOM.render(
   <App />,
-  document.getElementsByClassName('uk-article')[0]
+  document.getElementsByClassName('wohnboerse')[0]
 );

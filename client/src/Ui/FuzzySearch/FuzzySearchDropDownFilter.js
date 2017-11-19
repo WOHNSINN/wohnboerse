@@ -23,7 +23,6 @@ class FuzzySearchDropDownFilter extends Component {
 
   render() {
     var options = this.getOptions();
-    console.log("options", options);
     return(
       <FuzzySearchDropDown options={options} onChange={this.props.onChange}/>
     );

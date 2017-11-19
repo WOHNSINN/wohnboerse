@@ -9,13 +9,17 @@ img {
   height: auto;
 }
 
-.uk-article {
-  width: 70%;
-  margin: auto;
+.wohnboerse {
+  width: 100%;
+  margin: 0px;
 }
 
-h2 {
+.wohnboerse h2 {
   margin-top: 0;
+}
+
+.wohnboerse h3:hover {
+  text-decoration: underline;
 }
 
 .row {

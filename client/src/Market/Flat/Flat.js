@@ -30,7 +30,7 @@ class Flat extends Component {
     const toStr = to.getDate() + "." + to.getMonth() + "." + to.getFullYear();
 
     return (
-      <div className="row wg-boerse-flat" onClick={this.toggleDetail.bind(this)}>
+      <div className="row wg-boerse-flat uk-panel-hover uk-overlay-hover uk-scrollspy-init-inview uk-scrollspy-inview uk-animation-fade" onClick={this.toggleDetail.bind(this)}>
         <div className="col-xs-4">
           {this.props.flat.image && this.props.flat.image.urls.S.url &&
             <img src={this.props.flat.image.urls.S.url} alt={this.props.flat.title}/>
@@ -53,11 +53,13 @@ class Flat extends Component {
           <hr />
           {this.state.showDetail &&
             <div>
-              <div className="wg-boerse-description">
-              {this.props.flat.description.split('\n').map((item, key) => {
-                  return <span key={key}>{item}<br/></span>
-              })}
-              </div>
+              {this.props.flat.description &&
+                  <div className="wg-boerse-description">
+                  {this.props.flat.description.split('\n').map((item, key) => {
+                      return <span key={key}>{item}<br/></span>
+                  })}
+                  </div>
+              }
               <a href={url}>
                   <button type="button" className="btn btn-primary">
                      WG-Zimmer anfragen
