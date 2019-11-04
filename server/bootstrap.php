@@ -1,2 +1,2 @@
 <?php
-$basePath = "/home/leon/work/wohnsinn/wg-suche/server/";
+$basePath = "/kunden/466110_53125/webseiten/wohnsinn/wg-suche-joomla/server/";

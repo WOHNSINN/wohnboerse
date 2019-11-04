@@ -9,23 +9,76 @@ img {
   height: auto;
 }
 
+/* make the boxes on the right scroll with you */
 .wohnboerse {
   width: 100%;
   margin: 0px;
+  padding-left: 15px;
+  color: #333;
+  font-weight: normal;
 }
 
 .wohnboerse h2 {
   margin-top: 0;
 }
 
+.wohnboerse h3 {
+    margin-top: 0px;
+    font-size: 18px;
+}
+
+.wohnboerse h3.wg-boerse-fee {
+    padding-top: 15px;
+}
+
 .wohnboerse h3:hover {
   text-decoration: underline;
 }
 
-.row {
-  padding: 0 10px;
+.wohnboerse .row {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  transition: .3s background-color;
   cursor: pointer;
 }
+
+.wohnboerse hr {
+    margin: 0px -15px ;
+}
+
+.wohnboerse .wg-boerse-flat hr {
+    margin: 0px;
+}
+
+.wohnboerse .wg-boerse-item {
+    margin: 5px 0px;
+}
+.wg-boerse-zimmer-anfragen {
+    margin-bottom: 1em;
+}
+@media  (max-width: 992px) {
+    .wohnboerse h3 {margin-top: 10px;}
+
+    .fuzzy-search {
+        margin-left: 0px !important;
+        width: 100% !important;
+    }
+
+    .wohnboerse {
+        padding-left: 0px !important;
+    }
+
+    .wg-boerse-middle-col {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .wg-boerse-right-col {
+        margin: auto;
+        width: 95%;
+    }
+}
+
 
 .fuzzy-search-dropdown {
   float: left;

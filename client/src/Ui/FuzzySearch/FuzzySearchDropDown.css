@@ -1,37 +1,18 @@
 .fuzzy-search {
+  margin-left: -15px;
+  width: 102.5%;
   position: relative;
   float: left;
 }
 
-.wohnboerse form {
-  float: right;
-  padding: 20px 10px;
-  font-size: 28px !important;
-}
-
-.wohnboerse label {
-  margin-right: 10px;
-  font-weight: normal;
-  font-size: 28px;
-}
-
-.wohnboerse input {
-    font-size: 28px;
-    background-color: transparent;
-    border: 0px solid;
-    border-bottom: 1px solid;
-    width: 250px;
-    color: #222;
-    margin: 0px;
+.fuzzy-search form {
     padding: 0px;
-    border-radius: 0px;
+    margin: 25px 0px;
+    float: none;
+    font-size: 28px !important;
 }
 
-.wohnboerse input:focus {
-    outline: none;
-}
-
-.dropdown-arrow {
+.fuzzy-search .dropdown-arrow {
   float: right;
   display: inline-block;
   padding: 5px 10px;
@@ -41,6 +22,39 @@
   right: 36px;
   vertical-align: middle;
 }
+
+.fuzzy-search label {
+  margin: 15px 0px;
+  display: block;
+  font-weight: normal;
+  font-size: 28px;
+}
+
+.fuzzy-search input {
+    font-size: 16px;
+    width: 100%;
+    border: 1px solid #aaa;
+    vertical-align: top;
+    padding: 8px 12px;
+    transition: .3s border;
+    background-color: transparent;
+    height: auto;
+    color: #222;
+    margin: 0px;
+    border-radius: 0px;
+}
+
+.fuzzy-search input:hover, .fuzzy-search input:focus {
+    border: 1px solid rgb(247, 168, 35);
+    /*outline: none; */
+}
+
+.fuzzy-search .options {
+    width: 100%;
+    left: 0px;
+    top: 106px;
+}
+
 
 .dropdownicon {
   width: 0;

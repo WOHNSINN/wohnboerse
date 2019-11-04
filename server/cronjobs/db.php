@@ -15,7 +15,16 @@ class DB {
             Credentials::$dbPort);
 
         if ($this->db->connect_errno) {
-            echo "Failed to connect to MySQL: (" . $db->connect_errno . ") " . $db->connect_error;
+            echo "Failed to connect to MySQL: (" . $this->db->connect_errno . ") " . $this->db->connect_error;
+            exit();
+        }
+
+        // printf("Initial character set: %s\n", $this->db->character_set_name());
+        if (!$this->db->set_charset("utf8")) {
+            printf("Error loading character set utf8: %s\n", $this->db->error);
+            exit();
+        } else {
+            // printf("Current character set: %s\n", $this->db->character_set_name());
         }
     }
 

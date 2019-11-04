@@ -1,10 +1,27 @@
 <?php
+
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
+header("Content-Type: application/json;charset=UTF-8");
+
+// mb_internal_encoding("UTF-8");
+/* Display current internal character encoding */
+echo mb_internal_encoding();
+
 include_once("../bootstrap.php");
 include_once($basePath . "cronjobs/credentials.php");
 include($basePath . "cronjobs/db.php");
 
-$response = file_get_contents(Credentials::$apiEndpoint);
+$opts = array('http' => array('header' => 'Accept-Charset: UTF-8, *;q=0'));
+$context = stream_context_create($opts);
+
+
+$response = file_get_contents(Credentials::$apiEndpoint, false, $context);
+// echo $response;
 $data = json_decode($response);
+//var_dump($data);
 $db = new DB();
 
 if ($data) {
@@ -35,4 +52,4 @@ foreach ($data->result as $flat) {
     $flatData["profileName"] = isset($flat->profile->name) ? $flat->profile->name : null;
     if ($db->addEntry($flatData)) {}
 }
-
+//echo(json_encode($data->result));

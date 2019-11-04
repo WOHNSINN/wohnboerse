@@ -2,8 +2,7 @@
 include_once("../bootstrap.php");
 include_once($basePath . "cronjobs/db.php");
 
-header("Content-Type: application/json");
-header("Access-Control-Allow-Origin: *");
+header("Content-Type: application/json;charset=UTF-8");
 
 $db = new DB();
 $response = array();
@@ -19,4 +18,4 @@ foreach ($flats as $index => $flat) {
 
 $response["result"] = $flats;
 
-print_r(json_encode($response));
+print_r(json_encode($response, JSON_UNESCAPED_UNICODE));
